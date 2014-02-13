@@ -29,6 +29,7 @@ Resources collected online
 ### 開發相關資源+工具
 
 * [Stackoverflow](http://stackoverflow.com/)
+* [Quora](https://www.quora.com/)
 * [Explore GitHub](https://github.com/explore)
 * [CodePen](http://codepen.io/) - CodePen is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write.
 * [Trello](https://trello.com/)
