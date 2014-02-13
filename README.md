@@ -22,6 +22,7 @@ Resources collected online
 * [高雄前端社群](https://www.facebook.com/groups/358503154261390/) ([前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/edit?usp=sharing))
 * [AppDC 台灣App開發者社群](https://www.facebook.com/groups/appdc/)
 * [JavaScript.tw](https://www.facebook.com/groups/javascript.tw/)
+* [iCoding.co](https://www.facebook.com/iCoding.co)
 
 ### 開發相關資源+工具
 
@@ -29,12 +30,13 @@ Resources collected online
 * [Explore GitHub](https://github.com/explore)
 * [CodePen](http://codepen.io/) - CodePen is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write.
 * [Trello](https://trello.com/)
-
+* [Brackets](http://brackets.io/) - Brackets is an open source code editor for web designers and front-end developers.
 
 ## Web Design
 
-### Web
+### Framework + 其他文章
 
+* [BootStrap](http://getbootstrap.com/)
 * [Web前端](http://jianshu.io/c/zGogxV)
 
 ### CSS
@@ -44,7 +46,9 @@ Resources collected online
 
 ### Javascript
 
-* more..
+* [JavaScriptOO.com](http://www.javascriptoo.com/) - JavaScript Libraries 資源庫
+
+
 
 ## 實用好物連結
 
@@ -65,5 +69,7 @@ Resources collected online
 ### 趨勢關注
 
 * [互联网的一些事](http://www.yixieshi.com/)
-* []
+* [36氪 | 关注互联网创业](http://www.36kr.com/)
+
+
 
