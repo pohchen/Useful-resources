@@ -5,7 +5,7 @@ Resources collected online
 
 ## Learning Materials
 
-### MOOCs開放式課程
+### MOOCs開放式課程+學習資源
 
 * [Coursera](https://www.coursera.org/)
 * [edx](https://www.edx.org/)
@@ -14,6 +14,7 @@ Resources collected online
 * [khanacademy](https://www.khanacademy.org/)
 * [网易公开课](http://open.163.com/)
 * [新浪公开课](http://open.sina.com.cn/)
+* [CodeWars](http://www.codewars.com/) - for JavaScript/Ruby/CoffeScript
 
 ### 推薦技術社群
 
@@ -22,18 +23,19 @@ Resources collected online
 * [AppDC 台灣App開發者社群](https://www.facebook.com/groups/appdc/)
 * [JavaScript.tw](https://www.facebook.com/groups/javascript.tw/)
 
-### 開發相關資源
+### 開發相關資源+工具
 
 * [Stackoverflow](http://stackoverflow.com/)
 * [Explore GitHub](https://github.com/explore)
 * [CodePen](http://codepen.io/) - CodePen is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write.
+* [Trello](https://trello.com/)
 
 
 ## Web Design
 
-### HTML
+### Web
 
-* more..
+* [Web前端](http://jianshu.io/c/zGogxV)
 
 ### CSS
 
@@ -46,7 +48,7 @@ Resources collected online
 
 ## 實用好物連結
 
-### 推薦技術好文
+### 技術相關
 
 * more..
 
@@ -54,4 +56,14 @@ Resources collected online
 
 * [關於工程師 59 條搞笑但卻真實無比的語錄](http://www.inside.com.tw/2013/12/20/59-hilarious-but-true-programming-quotes-for-software-developers)
 
+### 實習職缺
+
+* [Job Inside](http://jobs.inside.com.tw/)
+* [WeStudent](http://we-student.com/)
+* [RubyJobs](http://jobs.ruby.tw/)
+
+### 趨勢關注
+
+* [互联网的一些事](http://www.yixieshi.com/)
+* []
 
