@@ -47,6 +47,7 @@ Resources collected online
 
 ### HTML/HTML5
 
+* [中央氣象局 - 網站設計概念稿](http://www.taylorhu.com/web-design/cwb-website-revamp/)
 * [HTML5 ROCKS Tutorials](http://www.html5rocks.com/en/tutorials/?page=1) - Posts, tutorials, case study & demos.
 * [tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/)
 
