@@ -25,7 +25,7 @@ Resources collected online
 * [AppDC 台灣App開發者社群](https://www.facebook.com/groups/appdc/)
 * [JavaScript.tw 社群](https://www.facebook.com/groups/javascript.tw/)
 * [HTML5 & CSS3 社群](https://www.facebook.com/groups/htmlfive/)
-* [Node.js 社群](https://www.facebook.com/groups/node.js.tw/)
+* [Node.js 社群](http://nodejs.tw/) - [Facebook](https://www.facebook.com/groups/node.js.tw/)
 * [iCoding.co](https://www.facebook.com/iCoding.co)
 * [Circle](https://www.facebook.com/circle.tw)
 
@@ -35,7 +35,9 @@ Resources collected online
 * [Front-End Developers Taiwan Party](http://www.f2e.tw/)
 * [學生計算機年會](http://sitcon.org/) - [2014](http://sitcon.org/2014/), [2013](http://sitcon.org/2013/)
 * [OSDC.tw](http://osdc.tw/) - [2014](http://osdc.tw/2014/), [2013](http://osdc.tw/2013/)
+* [COSCUP 開源人年會](http://coscup.org/) - [2013](http://coscup.org/2013/)
 * [JSDC.tw](http://jsdc.tw/) - [2014](http://jsdc.tw/2014/), [2013](http://jsdc.tw/2013/)
+* [Node.js Taiwan Party](http://nodejs-tw.kktix.cc/) - KKTIX event lists
 
 ### 開發相關資源+工具
 
@@ -89,7 +91,6 @@ Resources collected online
 * [Top Pens of 2013](http://codepen.io/2013/popular)
 * [高雄前端社群#7 & 前端小學堂](https://docs.google.com/presentation/d/1994aiVagPhMsur4wIr-F3IbeL3q7MDxSdEqfX3Gp9-E/edit#slide=id.g2a346af50_54)
 
-
 ### 實習職缺
 
 * [Job Inside](http://jobs.inside.com.tw/)
@@ -110,5 +111,9 @@ Resources collected online
 
 * [创业时，我们在知乎聊什么？](http://book.douban.com/subject/25800616/)
 * [淘宝技术这十年](http://book.douban.com/subject/24335672/)
+
+### Blog
+
+* [wange.im 万戈, Web 开发](http://wange.im/)
 
 
