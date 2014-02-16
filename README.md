@@ -92,9 +92,9 @@ Resources collected online
 
 ### Javascript Client-side libraries
 
-* [Hover](https://github.com/IanLunn/Hover) - awesome css3 animations on mouse hover.
-* [platform.js](https://github.com/bestiejs/platform.js) - get client's operating system name, version, and other useful information.
-* [jQuery Raty](http://wbotelhos.com/raty/) - Star Rating Plugin.
+* [Hover](https://github.com/IanLunn/Hover) - Awesome CSS3 animations on mouse hover.
+* [platform.js](https://github.com/bestiejs/platform.js) - Get client's operating system name, version and other information.
+* [jQuery Raty](http://wbotelhos.com/raty/) - Star rating plugin.
 * [Headroom.js](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it.
 * [X-editable](http://vitalets.github.io/x-editable/) - Edit form elements inline.
 * [Offline.js](http://github.hubspot.com/offline/docs/welcome/) - Detect when user's internet connection goes offline.
@@ -102,7 +102,7 @@ Resources collected online
 * [Alertify.js](http://fabien-d.github.io/alertify.js/) - Sweet looking alerts and browser dialogs.
 * [select.js](http://github.hubspot.com/select/docs/welcome/) - Styleable select elements.
 * [drop.js](http://github.hubspot.com/drop/docs/welcome/) - Look nice. Powerful Javascript and CSS library for creating dropdowns and other floating displays.
-* [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.)
+* [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.
 
 ## 實用好物連結
 
