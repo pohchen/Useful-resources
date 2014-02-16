@@ -120,6 +120,7 @@ Resources collected online
 
 ### 趨勢關注
 
+* [Treehouse Show: Web Design and Development News](https://www.youtube.com/playlist?list=PLFDA5B0CD72326128)
 * [互联网的一些事](http://www.yixieshi.com/)
 * [36氪 | 关注互联网创业](http://www.36kr.com/)
 * [TechOrange | 科技報橘](http://techorange.com/)
