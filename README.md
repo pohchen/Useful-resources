@@ -27,7 +27,6 @@ Resources collected online
 * [HTML5 & CSS3 社群](https://www.facebook.com/groups/htmlfive/)
 * [Node.js 社群](http://nodejs.tw/) - [Facebook](https://www.facebook.com/groups/node.js.tw/)
 * [iCoding.co](https://www.facebook.com/iCoding.co)
-* [Circle](https://www.facebook.com/circle.tw)
 
 ### 社群聚會+Conference
 
@@ -106,6 +105,7 @@ Resources collected online
 * [创业邦](http://www.cyzone.cn/)
 * [TechCrunch](http://techcrunch.com/)
 * [PunNode](http://punnode.com/)
+* [Circle](https://www.facebook.com/circle.tw)
 
 ### 書籍
 
