@@ -61,14 +61,22 @@ Resources collected online
 * [Front-End Technologies](http://uptodate.frontendrescue.org/)
 * [幫你的網頁作體檢](https://speakerdeck.com/jaceju/checkup-your-web-pages) - by 大澤木小鐵
 
-### HTML/HTML5
+### Design + HTML/HTML5 
 
+* [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
+* [Colors](http://clrs.cc/) - a nicer color palette for the web design
+* [HTML5 UP! Responsive HTML5 and CSS3 Site Templates](http://html5up.net/) - HTML5 UP has many beautiful templates that you can download for free
 * [中央氣象局 - 網站設計概念稿](http://www.taylorhu.com/web-design/cwb-website-revamp/)
 * [HTML5 ROCKS Tutorials](http://www.html5rocks.com/en/tutorials/?page=1) - Posts, tutorials, case study & demos.
 * [tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/)
 
 ### CSS
 
+* [CSS Spinning Loaders](http://codepen.io/andymcfee/pen/ioskA) - spinning loader in CSS
+* [SpinKit](http://tobiasahlin.com/spinkit/) - more awesome spinning loaders in CSS
+* [Creative Button Styles](http://tympanus.net/Development/CreativeButtons/) - awesome button styles
+* [Creative Link Effects](http://tympanus.net/Development/CreativeLinkEffects/) - awesome link effects in CSS
+* [Medium Scroll Effect](http://codepen.io/andreasstorm/pen/pyjEh) - fade in/out background image when scrolling
 * [前端工程日誌: Sass教學手冊](http://sam0512.blogspot.tw/2013/10/sass.html) - by 廖洧杰
 * [CSS-TRICKS](http://css-tricks.com/)
 * [RWD 基礎網頁/設定box-sizing](http://www.adamkaplan.me/grid/)
@@ -81,6 +89,20 @@ Resources collected online
 * [JavaScriptOO.com](http://www.javascriptoo.com/) - JavaScript Libraries 資源庫
 * [JavaScript The Right Way](http://jstherightway.org/) - This is a JavaScript guide intended to introduce new developers and help experienced ones to the JavaScript's best practices.
 * [5 Minutes of JavaScript](http://five-js.envylabs.com/)
+
+### Javascript Client-side libraries
+
+* [Hover](https://github.com/IanLunn/Hover) - awesome css3 animations on mouse hover.
+* [platform.js](https://github.com/bestiejs/platform.js) - get client's operating system name, version, and other useful information.
+* [jQuery Raty](http://wbotelhos.com/raty/) - Star Rating Plugin.
+* [Headroom.js](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it.
+* [X-editable](http://vitalets.github.io/x-editable/) - Edit form elements inline.
+* [Offline.js](http://github.hubspot.com/offline/docs/welcome/) - Detect when user's internet connection goes offline.
+* [Color Thief](https://github.com/lokesh/color-thief) - Grabs the dominant color or a representative color palette from an image.
+* [Alertify.js](http://fabien-d.github.io/alertify.js/) - Sweet looking alerts and browser dialogs.
+* [select.js](http://github.hubspot.com/select/docs/welcome/) - Styleable select elements.
+* [drop.js](http://github.hubspot.com/drop/docs/welcome/) - Look nice. Powerful Javascript and CSS library for creating dropdowns and other floating displays.
+* [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.)
 
 ## 實用好物連結
 
