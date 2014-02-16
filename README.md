@@ -18,18 +18,30 @@ Resources collected online
 
 ### 推薦技術社群
 
+* [JSDC.tw](http://jsdc.tw/)
 * [Front-End Developers Taiwan](https://www.facebook.com/groups/521085554595481/)
 * [台灣遊戲App開發者社群 TGADC](https://www.facebook.com/groups/tgadc/)
 * [高雄前端社群](https://www.facebook.com/groups/358503154261390/) ([前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/edit?usp=sharing))
 * [AppDC 台灣App開發者社群](https://www.facebook.com/groups/appdc/)
-* [JavaScript.tw](https://www.facebook.com/groups/javascript.tw/)
+* [JavaScript.tw 社群](https://www.facebook.com/groups/javascript.tw/)
+* [HTML5 & CSS3 社群](https://www.facebook.com/groups/htmlfive/)
+* [Node.js 社群](https://www.facebook.com/groups/node.js.tw/)
 * [iCoding.co](https://www.facebook.com/iCoding.co)
 * [Circle](https://www.facebook.com/circle.tw)
+
+### 社群聚會+Conference
+
+* [行動科技應用開發者年會](http://mopcon.org/) - [2013](http://mopcon.org/2013/session.php)
+* [Front-End Developers Taiwan Party](http://www.f2e.tw/)
+* [學生計算機年會](http://sitcon.org/) - [2014](http://sitcon.org/2014/), [2013](http://sitcon.org/2013/)
+* [OSDC.tw](http://osdc.tw/) - [2014](http://osdc.tw/2014/), [2013](http://osdc.tw/2013/)
+* [JSDC.tw](http://jsdc.tw/) - [2014](http://jsdc.tw/2014/), [2013](http://jsdc.tw/2013/)
 
 ### 開發相關資源+工具
 
 * [Stackoverflow](http://stackoverflow.com/)
 * [Quora](https://www.quora.com/)
+* [知乎](http://www.zhihu.com/) - 与世界分享你的知识、经验和见解
 * [Explore GitHub](https://github.com/explore)
 * [CodePen](http://codepen.io/) - CodePen is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write.
 * [Trello](https://trello.com/)
@@ -39,11 +51,14 @@ Resources collected online
 
 ### Framework + Others
 
+* [Web前端程式開發實務](http://f2eclass.com/) - by Joseph Chiang
+* [F2E, the Keystone](https://speakerdeck.com/josephj/f2e-the-keystone-front-end-developer-party-number-1) - Front-end Developer Party #1
 * [Treehouse Blog](http://blog.teamtreehouse.com/) - about Websites, Coding, iOS, Android and Business
 * [BootStrap](http://getbootstrap.com/)
 * [Web前端](http://jianshu.io/c/zGogxV)
 * [JSON Generator](http://www.json-generator.com/) - 假資料產生
 * [Front-End Technologies](http://uptodate.frontendrescue.org/)
+* [幫你的網頁作體檢](https://speakerdeck.com/jaceju/checkup-your-web-pages) - by 大澤木小鐵
 
 ### HTML/HTML5
 
@@ -53,6 +68,7 @@ Resources collected online
 
 ### CSS
 
+* [前端工程日誌: Sass教學手冊](http://sam0512.blogspot.tw/2013/10/sass.html) - by 廖洧杰
 * [CSS-TRICKS](http://css-tricks.com/)
 * [RWD 基礎網頁/設定box-sizing](http://www.adamkaplan.me/grid/)
 * [利用BORDER-BOX為網頁元素設定正確的長度與寬度](http://rettamkrad.blogspot.tw/2012/11/setting-correct-width-and-height-for.html)
@@ -88,6 +104,11 @@ Resources collected online
 * [香港矽谷- 科技閱讀平台](http://www.hksilicon.com/kb/)
 * [创业邦](http://www.cyzone.cn/)
 * [TechCrunch](http://techcrunch.com/)
+* [PunNode](http://punnode.com/)
 
+### 書籍
+
+* [创业时，我们在知乎聊什么？](http://book.douban.com/subject/25800616/)
+* [淘宝技术这十年](http://book.douban.com/subject/24335672/)
 
 
