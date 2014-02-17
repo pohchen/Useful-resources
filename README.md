@@ -48,7 +48,7 @@ Resources collected online
 * [Trello](https://trello.com/)
 * [Brackets](http://brackets.io/) - Brackets is an open source code editor for web designers and front-end developers.
 
-## Web Design
+## Front-end Web Design
 
 ### Framework + Others
 
