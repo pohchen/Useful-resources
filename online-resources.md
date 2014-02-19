@@ -70,7 +70,8 @@ This is the resources collect online
 * [HTML5 ROCKS Tutorials](http://www.html5rocks.com/en/tutorials/?page=1) - Posts, tutorials, case study & demos.
 * [tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/)
 * [Hack Design](https://hackdesign.org/) - [Web Design Toolkit](https://hackdesign.org/toolkit/web-design)
-* [Dribbble](http://dribbble.com/) - Dribbble is a community of designers answering that question each day. Web designers, graphic designers, illustrators, icon artists, typographers, logo designers, and other creative types share small screenshots (shots) that show their work, process, and current projects.
+* [Dribbble](http://dribbble.com/) - Dribbble is a community of designers. Web designers, graphic designers, illustrators, icon artists, typographers, logo designers, and other creative types share small screenshots that show their work...
+* [优设-UISDC: 优秀网页设计联盟](http://www.uisdc.com/)
 
 ### CSS
 
