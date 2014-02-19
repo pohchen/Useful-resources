@@ -69,6 +69,7 @@ Resources collected online
 * [中央氣象局 - 網站設計概念稿](http://www.taylorhu.com/web-design/cwb-website-revamp/)
 * [HTML5 ROCKS Tutorials](http://www.html5rocks.com/en/tutorials/?page=1) - Posts, tutorials, case study & demos.
 * [tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/)
+* [Hack Design](https://hackdesign.org/) - [Web Design Toolkit](https://hackdesign.org/toolkit/web-design)
 
 ### CSS
 
@@ -139,4 +140,10 @@ Resources collected online
 
 * [wange.im 万戈, Web 开发](http://wange.im/)
 
+### 其他網站
+
+* [看美劇(迅雷)](http://kanmeiju.net/)
+* [FUN698(迅雷)](http://www.fun698.com/)
+* [百度云网盘](http://pan.baidu.com/) - BT種子離線代抓
+* [360云盘](http://yunpan.360.cn/)
 
