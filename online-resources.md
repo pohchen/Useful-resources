@@ -108,6 +108,11 @@ This is the resources collect online
 * [drop.js](http://github.hubspot.com/drop/docs/welcome/) - Look nice. Powerful Javascript and CSS library for creating dropdowns and other floating displays.
 * [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.
 
+### iOS/Android App Design
+
+*[Flinto](https://www.flinto.com/) - iOS and Android prototypes made from your existing screen designs.
+*[POP](https://popapp.in/) - prototyping on paper
+
 ## 實用好物連結
 
 ### 雜文收藏
