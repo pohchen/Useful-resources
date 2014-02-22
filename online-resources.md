@@ -50,6 +50,14 @@ This is the resources collect online
 
 ## Front-end Web Design
 
+### For Beginners
+
+* [codeschool](https://www.codeschool.com/) - Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
+* [Codecademy](http://www.codecademy.com/) - Learn to code interactively, for free.
+* [w3school](http://www.w3schools.com/)
+* [前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/edit)
+* [30 Days to Learn HTML & CSS](https://courses.tutsplus.com/courses/30-days-to-learn-html-css) / [30 Days to Learn jQuery](https://courses.tutsplus.com/courses/30-days-to-learn-jquery)
+
 ### Framework + Others
 
 * [Web前端程式開發實務](http://f2eclass.com/) - by Joseph Chiang
@@ -64,6 +72,7 @@ This is the resources collect online
 
 ### Design + HTML/HTML5 
 
+* [Smashing Magazine](http://www.smashingmagazine.com/) - For Professional Web Designers and Developers
 * [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
 * [Colors](http://clrs.cc/) - a nicer color palette for the web design
 * [HTML5 UP! Responsive HTML5 and CSS3 Site Templates](http://html5up.net/) - HTML5 UP has many beautiful templates that you can download for free
@@ -73,6 +82,7 @@ This is the resources collect online
 * [Hack Design](https://hackdesign.org/) - [Web Design Toolkit](https://hackdesign.org/toolkit/web-design)
 * [Dribbble](http://dribbble.com/) - Dribbble is a community of designers. Web designers, graphic designers, illustrators, icon artists, typographers, logo designers, and other creative types share small screenshots that show their work...
 * [优设-UISDC: 优秀网页设计联盟](http://www.uisdc.com/)
+* [Responsive Grid System: Many good examples](http://www.responsivegridsystem.com/) - The Responsive Grid System isn't a framework. It's not a boilerplate either. It's a quick, easy & flexible way to create a responsive web site.
 
 ### CSS
 
@@ -110,8 +120,8 @@ This is the resources collect online
 
 ### iOS/Android App Design
 
-*[Flinto](https://www.flinto.com/) - iOS and Android prototypes made from your existing screen designs.
-*[POP](https://popapp.in/) - prototyping on paper
+* [Flinto](https://www.flinto.com/) - iOS and Android prototypes made from your existing screen designs.
+* [POP](https://popapp.in/) - prototyping on paper
 
 ## 實用好物連結
 
