@@ -50,6 +50,10 @@ This is the resources collect online
 
 ## Front-end Web Design
 
+### Important Lists
+
+* [Frontend Tools](http://fredsarmento.me/frontend-tools/)
+
 ### For Beginners
 
 * [codeschool](https://www.codeschool.com/) - Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
