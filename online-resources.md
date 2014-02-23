@@ -43,6 +43,7 @@ This is the resources collect online
 * [Stackoverflow](http://stackoverflow.com/)
 * [Quora](https://www.quora.com/)
 * [知乎](http://www.zhihu.com/) - 与世界分享你的知识、经验和见解
+* [V2EX](http://v2ex.com/) - 一个关于分享和探索的地方
 * [Explore GitHub](https://github.com/explore)
 * [CodePen](http://codepen.io/) - CodePen is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write.
 * [Trello](https://trello.com/)
@@ -88,8 +89,13 @@ This is the resources collect online
 * [优设-UISDC: 优秀网页设计联盟](http://www.uisdc.com/)
 * [Responsive Grid System: Many good examples](http://www.responsivegridsystem.com/) - The Responsive Grid System isn't a framework. It's not a boilerplate either. It's a quick, easy & flexible way to create a responsive web site.
 
-### CSS
+### CSS / CSS framework
 
+* [960 Grid System](http://960.gs/)
+* [Foundation](http://foundation.zurb.com/) - The Most Advanced Responsive Front-end Framework from ZURB
+* [Blueprint: A CSS Framework](http://www.blueprintcss.org/) - Spend your time innovating, not replicating
+* [Pure](http://purecss.io/) ★★★★★ - A set of small, responsive CSS modules that you can use in every web project.
+* [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 * [CSS Spinning Loaders](http://codepen.io/andymcfee/pen/ioskA) - spinning loader in CSS
 * [SpinKit](http://tobiasahlin.com/spinkit/) - more awesome spinning loaders in CSS
 * [Creative Button Styles](http://tympanus.net/Development/CreativeButtons/) - awesome button styles
