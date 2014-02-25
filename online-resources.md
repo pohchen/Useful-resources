@@ -12,6 +12,7 @@ This is the resources collect online
 * [Udacity](https://www.udacity.com/)
 * [Stanford Online](http://online.stanford.edu/)
 * [khanacademy](https://www.khanacademy.org/)
+* [NCTU OCW](http://ocw.nctu.edu.tw/index.php)
 * [网易公开课](http://open.163.com/)
 * [新浪公开课](http://open.sina.com.cn/)
 * [CodeWars](http://www.codewars.com/) - for JavaScript/Ruby/CoffeScript
