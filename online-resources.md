@@ -138,12 +138,14 @@ This is the resources collect online
 
 ## 實用好物連結
 
-### 雜文收藏
+### 雜文收藏 + 找工作
 
 * [優秀網站開發者的十個特徵](http://www.inside.com.tw/2014/02/19/10-signs-that-you-are-an-awesome-web-developer)
 * [關於工程師 59 條搞笑但卻真實無比的語錄](http://www.inside.com.tw/2013/12/20/59-hilarious-but-true-programming-quotes-for-software-developers)
 * [Top Pens of 2013](http://codepen.io/2013/popular)
 * [高雄前端社群#7 & 前端小學堂](https://docs.google.com/presentation/d/1994aiVagPhMsur4wIr-F3IbeL3q7MDxSdEqfX3Gp9-E/edit#slide=id.g2a346af50_54)
+* [小B雜Blog - 新鮮人找工作的注意事項 & 自己的面試經驗](http://littlebmix.blogspot.tw/2011/09/blog-post.html)
+* [小B雜Blog - 應徵 Rails 工作的心得](http://ascendbruce.logdown.com/posts/178895-my-experience-on-applying-rails-jobs)
 
 ### 實習職缺
 
