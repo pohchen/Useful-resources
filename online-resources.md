@@ -16,6 +16,7 @@ This is the resources collect online
 * [网易公开课](http://open.163.com/)
 * [新浪公开课](http://open.sina.com.cn/)
 * [CodeWars](http://www.codewars.com/) - for JavaScript/Ruby/CoffeScript
+* [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/index.html)
 
 ### 推薦技術社群
 
@@ -46,6 +47,7 @@ This is the resources collect online
 * [知乎](http://www.zhihu.com/) - 与世界分享你的知识、经验和见解
 * [V2EX](http://v2ex.com/) - 一个关于分享和探索的地方
 * [Explore GitHub](https://github.com/explore)
+* [Git Book 中文線上版本](http://git-scm.com/book/zh-tw/)
 * [CodePen](http://codepen.io/) - CodePen is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write.
 * [Trello](https://trello.com/)
 * [Brackets](http://brackets.io/) - Brackets is an open source code editor for web designers and front-end developers.
@@ -54,12 +56,9 @@ This is the resources collect online
 
 ## Front-end Web Design
 
-### Important Lists
+### Important Lists For Beginners
 
 * [Frontend Tools](http://fredsarmento.me/frontend-tools/)
-
-### For Beginners
-
 * [codeschool](https://www.codeschool.com/) - Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
 * [Codecademy](http://www.codecademy.com/) - Learn to code interactively, for free.
 * [w3school](http://www.w3schools.com/)
@@ -108,6 +107,8 @@ This is the resources collect online
 * [CSS-TRICKS](http://css-tricks.com/)
 * [RWD 基礎網頁/設定box-sizing](http://www.adamkaplan.me/grid/)
 * [利用BORDER-BOX為網頁元素設定正確的長度與寬度](http://rettamkrad.blogspot.tw/2012/11/setting-correct-width-and-height-for.html)
+* [Compass](http://compass-style.org/)
+* [Spriting with Compass](http://wcc723.github.io/css/2014/03/13/css-icon-sprites/)
 
 ### Javascript
 
@@ -146,6 +147,7 @@ This is the resources collect online
 * [高雄前端社群#7 & 前端小學堂](https://docs.google.com/presentation/d/1994aiVagPhMsur4wIr-F3IbeL3q7MDxSdEqfX3Gp9-E/edit#slide=id.g2a346af50_54)
 * [小B雜Blog - 新鮮人找工作的注意事項 & 自己的面試經驗](http://littlebmix.blogspot.tw/2011/09/blog-post.html)
 * [小B雜Blog - 應徵 Rails 工作的心得](http://ascendbruce.logdown.com/posts/178895-my-experience-on-applying-rails-jobs)
+* [百度面试](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/) - 不会开机的男孩
 
 ### 實習職缺
 
