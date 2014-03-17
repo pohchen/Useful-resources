@@ -173,9 +173,10 @@ This is the resources collect online
 * [创业时，我们在知乎聊什么？](http://book.douban.com/subject/25800616/)
 * [淘宝技术这十年](http://book.douban.com/subject/24335672/)
 
-### Blog
+### Blog / Good Design Works
 
 * [wange.im 万戈, Web 开发](http://wange.im/)
+* [kuty.cc](http://kytu.cc/works/) - [Personal Facebook](https://www.facebook.com/kytu800)
 
 ### 其他網站
 
