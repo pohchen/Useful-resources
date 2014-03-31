@@ -73,6 +73,7 @@ This is the resources collect online
 * [F2E, the Keystone](https://speakerdeck.com/josephj/f2e-the-keystone-front-end-developer-party-number-1) - Front-end Developer Party #1
 * [Treehouse Blog](http://blog.teamtreehouse.com/) - about Websites, Coding, iOS, Android and Business
 * [BootStrap](http://getbootstrap.com/)
+* [Bootflat](http://bootflat.github.io/) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.1.0 CSS framework. 
 * [Web前端](http://jianshu.io/c/zGogxV)
 * [JSON Generator](http://www.json-generator.com/) - 假資料產生
 * [Front-End Technologies](http://uptodate.frontendrescue.org/)
