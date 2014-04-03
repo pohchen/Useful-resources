@@ -66,6 +66,8 @@ This is the resources collect online
 * [w3school](http://www.w3schools.com/)
 * [前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/edit)
 * [30 Days to Learn HTML & CSS](https://courses.tutsplus.com/courses/30-days-to-learn-html-css) / [30 Days to Learn jQuery](https://courses.tutsplus.com/courses/30-days-to-learn-jquery)
+* [Web Developer Checklist](http://webdevchecklist.com/)
+* [BrowserStack](http://www.browserstack.com/) - Cross Browser Testing Tool
 
 ### Framework + Others
 
