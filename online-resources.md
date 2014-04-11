@@ -55,11 +55,13 @@ This is the resources collect online
 * [Koding](https://koding.com/) - [Intro Slide](http://www.slideshare.net/clonncd/introduc-koding-201311), Koding is a developer community and cloud development environment where developers come together and code in the browser.
 * [Cloud9 IDE](https://c9.io/) - Write, run, and debug your code with our powerful and flexible cloud IDE. Collaborate on your workspaces publicly, or keep them private. The choice is yours!
 * [moqups 網站雛形製作](https://moqups.com/)
+* [Slides](http://slides.com/) - Slides is a place for creating, presenting and sharing presentations.
 
 ## Front-end Web Design
 
 ### Important Lists For Beginners
 
+* [Web Developer Checklist](http://webdevchecklist.com/)
 * [Frontend Tools](http://fredsarmento.me/frontend-tools/)
 * [codeschool](https://www.codeschool.com/) - Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
 * [Codecademy](http://www.codecademy.com/) - Learn to code interactively, for free.
@@ -68,6 +70,7 @@ This is the resources collect online
 * [30 Days to Learn HTML & CSS](https://courses.tutsplus.com/courses/30-days-to-learn-html-css) / [30 Days to Learn jQuery](https://courses.tutsplus.com/courses/30-days-to-learn-jquery)
 * [Web Developer Checklist](http://webdevchecklist.com/)
 * [BrowserStack](http://www.browserstack.com/) - Cross Browser Testing Tool
+* [WTF, HTML and CSS?](http://wtfhtmlcss.com/) - A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
 
 ### Framework + Others
 
@@ -115,6 +118,8 @@ This is the resources collect online
 * [Compass](http://compass-style.org/)
 * [Spriting with Compass](http://wcc723.github.io/css/2014/03/13/css-icon-sprites/)
 * [Codrops](http://tympanus.net/codrops/) - Many good CSS Tutorials
+* [iHover](http://gudh.github.io/ihover/dist/index.html) - CSS3 hover effects pack
+* [配色神器 Color Cube](http://www.fancynode.com/colorcube/index.html)
 
 ### Javascript
 
@@ -143,6 +148,10 @@ This is the resources collect online
 * [Flinto](https://www.flinto.com/) - iOS and Android prototypes made from your existing screen designs.
 * [POP](https://popapp.in/) - prototyping on paper
 
+### Algorithm
+
+* [Sorting Algorithms in C](http://www.codebeach.com/2008/09/sorting-algorithms-in-c.html)- This article discusses some of the common sorting algorithms.
+
 ## 實用好物連結
 
 ### 雜文收藏 + 找工作
@@ -154,6 +163,7 @@ This is the resources collect online
 * [小B雜Blog - 新鮮人找工作的注意事項 & 自己的面試經驗](http://littlebmix.blogspot.tw/2011/09/blog-post.html)
 * [小B雜Blog - 應徵 Rails 工作的心得](http://ascendbruce.logdown.com/posts/178895-my-experience-on-applying-rails-jobs)
 * [百度面试](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/) - 不会开机的男孩
+* [Redesigning IMDB](https://medium.com/p/2e9e865dd83)
 
 ### 實習職缺
 
