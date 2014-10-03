@@ -142,6 +142,7 @@ This is the resources collect online
 * [select.js](http://github.hubspot.com/select/docs/welcome/) - Styleable select elements.
 * [drop.js](http://github.hubspot.com/drop/docs/welcome/) - Look nice. Powerful Javascript and CSS library for creating dropdowns and other floating displays.
 * [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.
+* [SweetAlert](http://tristanedwards.me/sweetalert) - A beautiful replacement for Javascript's "Alert"
 
 ### iOS/Android App Design
 
