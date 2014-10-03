@@ -188,6 +188,7 @@ This is the resources collect online
 
 * [创业时，我们在知乎聊什么？](http://book.douban.com/subject/25800616/)
 * [淘宝技术这十年](http://book.douban.com/subject/24335672/)
+* [改變世界的九大演算法](http://www.books.com.tw/products/0010644994)
 
 ### Blog / Good Design Works
 
