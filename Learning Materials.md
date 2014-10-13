@@ -1,8 +1,3 @@
-Online Resources
-=========
-
-This is the resources collect online
-
 ## Learning Materials
 
 ### MOOCs開放式課程+學習資源

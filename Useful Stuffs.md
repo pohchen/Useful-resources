@@ -1,9 +1,4 @@
-Online Resources
-=========
-
-This is the resources collect online
-
-## Useful Stuff
+## Useful Stuffs
 
 ### 雜文收藏 + 找工作
 

@@ -1,8 +1,3 @@
-Online Resources
-=========
-
-This is the resources collect online
-
 ## Front-end Web Design
 
 ### Important Lists For Beginners
