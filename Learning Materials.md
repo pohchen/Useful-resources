@@ -51,3 +51,13 @@
 * [Cloud9 IDE](https://c9.io/) - Write, run, and debug your code with our powerful and flexible cloud IDE. Collaborate on your workspaces publicly, or keep them private. The choice is yours!
 * [moqups 網站雛形製作](https://moqups.com/)
 * [Slides](http://slides.com/) - Slides is a place for creating, presenting and sharing presentations.
+
+
+### Programming Puzzles
+
+* [Facebook Puzzles](https://www.facebook.com/careers/puzzles.php)
+* [Topcoder Algorithm matches](http://community.topcoder.com/tc?module=ProblemArchive)
+* [Spoj online judge](http://www.spoj.com/problems/classical/)
+* [Uva online judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
+* [Codeforces](http://www.codeforces.com/)
+* [Codechef](http://www.codechef.com/)
