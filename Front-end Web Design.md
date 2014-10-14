@@ -12,8 +12,10 @@
 * [Web Developer Checklist](http://webdevchecklist.com/)
 * [BrowserStack](http://www.browserstack.com/) - Cross Browser Testing Tool
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/) - A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
+* [CCSP NTU Course](http://ccsp.ntumobile.org/syllabus.html) - Code for Your Dream
+* Language for faster making a website : Haml, Slim, Jade, Sass, Compass...
 
-### Framework + Others
+### Framework/Templetes + Others
 
 * [Web前端程式開發實務](http://f2eclass.com/) - by Joseph Chiang
 * [F2E, the Keystone](https://speakerdeck.com/josephj/f2e-the-keystone-front-end-developer-party-number-1) - Front-end Developer Party #1
@@ -28,6 +30,7 @@
 
 ### Design + HTML/HTML5 
 
+* [Sidebar](http://sidebar.io/) - The 5 best design links, every day
 * [Smashing Magazine](http://www.smashingmagazine.com/) - For Professional Web Designers and Developers
 * [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
 * [Colors](http://clrs.cc/) - a nicer color palette for the web design
@@ -37,10 +40,26 @@
 * [tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/)
 * [Hack Design](https://hackdesign.org/) - [Web Design Toolkit](https://hackdesign.org/toolkit/web-design)
 * [Dribbble](http://dribbble.com/) - Dribbble is a community of designers. Web designers, graphic designers, illustrators, icon artists, typographers, logo designers, and other creative types share small screenshots that show their work...
+* [Awwwards](http://www.awwwards.com/) - Website Awards - Best Web Design Trends
+* [Behance](https://www.behance.net/) - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
 * [优设-UISDC: 优秀网页设计联盟](http://www.uisdc.com/)
 * [Responsive Grid System: Many good examples](http://www.responsivegridsystem.com/) - The Responsive Grid System isn't a framework. It's not a boilerplate either. It's a quick, easy & flexible way to create a responsive web site.
+* [Taobao UED](http://ued.taobao.org/blog/)
+* [W3CPlus](http://www.w3cplus.com/) - 前端爱好者的家园
+* [腾讯ISUX](http://isux.tencent.com/) - 社交用户体验设计
+* [阿里巴巴用戶體驗部](http://www.aliued.cn/) - 阿里巴巴（中文站）用户体验设计部博客
 
-### CSS / CSS framework
+### Prototype web & App Tools
+
+* [Framer](http://framerjs.com/) - Prototype Interaction and Animation
+* [PhoneGap](http://phonegap.com/) - Easily create apps using the web technologies you know and love: HTML, CSS, and JavaScript
+* [Cordova](http://cordova.apache.org/) - Apache Cordova is a platform for building native mobile applications using HTML, CSS and JavaScript
+* [Webflow](https://webflow.com/) - Webflow is the top drag-and-drop website builder for designing custom, professional websites without code.
+* [wireframe.cc](https://wireframe.cc/) - minimal wireframing tool
+* [Paper Browser](http://www.raincreativelab.com/paperbrowser/)
+* [Sneakpeekit](http://sneakpeekit.com/) - Sketch sheets for Web Designers
+
+### CSS Tools / CSS framework
 
 * [960 Grid System](http://960.gs/)
 * [Foundation](http://foundation.zurb.com/) - The Most Advanced Responsive Front-end Framework from ZURB
@@ -61,6 +80,8 @@
 * [Codrops](http://tympanus.net/codrops/) - Many good CSS Tutorials
 * [iHover](http://gudh.github.io/ihover/dist/index.html) - CSS3 hover effects pack
 * [配色神器 Color Cube](http://www.fancynode.com/colorcube/index.html)
+* [CodePen](http://codepen.io/) - Front End Developer Playground & Code Editor in the Browser
+* [TheCodePlayer](http://thecodeplayer.com/) - TheCodePlayer plays code like a video helping people to learn front end technologies like HTML5, CSS3, Javascript, Jquery easily, quickly and interactively.
 
 ### Javascript
 
@@ -69,6 +90,14 @@
 * [JavaScriptOO.com](http://www.javascriptoo.com/) - JavaScript Libraries 資源庫
 * [JavaScript The Right Way](http://jstherightway.org/) - This is a JavaScript guide intended to introduce new developers and help experienced ones to the JavaScript's best practices.
 * [5 Minutes of JavaScript](http://five-js.envylabs.com/)
+
+### Javascript MVC framework
+
+* [TodoMVC](http://todomvc.com/) - Helping you select an MV* framework
+* [AngularJS](https://angularjs.org/) - Superheroic JavaScript MVW Framework
+* [Ember.js](http://emberjs.com/) - A framework for creating ambitious web applications
+* [React(only V)](http://facebook.github.io/react/) - A JavaScript library for building user interfaces
+* [BackBoneJS](http://backbonejs.org/) 
 
 ### Javascript Client-side libraries
 
@@ -93,3 +122,15 @@
 ### Algorithm
 
 * [Sorting Algorithms in C](http://www.codebeach.com/2008/09/sorting-algorithms-in-c.html)- This article discusses some of the common sorting algorithms.
+* [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/)
+
+### Database / Back-End
+
+* [Parse](https://parse.com/) - Parse is a complete technology stack to power your app's backend (會員、資料庫、推播系統).
+* [Firebase](https://www.firebase.com/) - Build realtime mobile and web apps in minutes using client-side code and our powerful API.
+
+### Deal with cross browser
+
+* [HTML5 Boilerplate](http://html5boilerplate.com/) - HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package.
+* [Normalize.css](http://necolas.github.io/normalize.css/) - Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+* [Modernizr](http://modernizr.com/) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
