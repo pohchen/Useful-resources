@@ -44,6 +44,7 @@
 
 * [Quora](https://www.quora.com/)
 * [Stack Overflow](http://stackoverflow.com/)
+* [Hacker News](https://news.ycombinator.com/)
 * [知乎](http://www.zhihu.com/) - 与世界分享你的知识、经验和见解
 * [V2EX](http://v2ex.com/) - 一个关于分享和探索的地方
 * [Explore GitHub](https://github.com/explore)
