@@ -12,6 +12,7 @@
 * [新浪公开课](http://open.sina.com.cn/)
 * [CodeWars](http://www.codewars.com/) - for JavaScript/Ruby/CoffeScript
 * [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/index.html)
+* [2014 第7屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman7/app/index) - 很多好文章、值得新手學習文章推薦
 
 ### 推薦技術社群
 
