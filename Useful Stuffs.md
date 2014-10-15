@@ -11,6 +11,7 @@
 * [百度面试](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/) - 不会开机的男孩
 * [Redesigning IMDB](https://medium.com/p/2e9e865dd83)
 * [iubenda](http://www.iubenda.com/en) - 網站隱私政策 Privacy policy 快速產生器
+* [Interview Questions | CareerCup](http://www.careercup.com/page) - 常見面試題目整理推薦
 
 ### 實習職缺
 

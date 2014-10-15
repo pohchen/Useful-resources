@@ -13,6 +13,9 @@
 * [CodeWars](http://www.codewars.com/) - for JavaScript/Ruby/CoffeScript
 * [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/index.html)
 * [2014 第7屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman7/app/index) - 很多好文章、值得新手學習文章推薦
+* [Good-tutorials](http://www.good-tutorials.com/) - Provides tutorials related to languages like HTML,CSS,PHP,Ruby,Java,Javascript...
+* [w3schools](http://www.w3schools.com/)
+* [tuts+ Free Tutorial](http://code.tutsplus.com/)
 
 ### 推薦技術社群
 
@@ -24,7 +27,7 @@
 * [JavaScript.tw 社群](https://www.facebook.com/groups/javascript.tw/)
 * [HTML5 & CSS3 社群](https://www.facebook.com/groups/htmlfive/)
 * [Node.js 社群](http://nodejs.tw/) - [Facebook](https://www.facebook.com/groups/node.js.tw/)
-* [iCoding.co](https://www.facebook.com/iCoding.co)
+* [reddit - programming](http://www.reddit.com/r/programming/) - hot news
 
 ### 社群聚會+Conference
 
@@ -37,10 +40,10 @@
 * [Node.js Taiwan Party](http://nodejs-tw.kktix.cc/) - KKTIX event lists
 * [g0v.tw 零時政府](http://g0v.tw/)
 
-### 開發相關資源+工具
+### 開發相關資源+工具/社群知識
 
-* [Stackoverflow](http://stackoverflow.com/)
 * [Quora](https://www.quora.com/)
+* [Stack Overflow](http://stackoverflow.com/)
 * [知乎](http://www.zhihu.com/) - 与世界分享你的知识、经验和见解
 * [V2EX](http://v2ex.com/) - 一个关于分享和探索的地方
 * [Explore GitHub](https://github.com/explore)
@@ -53,12 +56,17 @@
 * [moqups 網站雛形製作](https://moqups.com/)
 * [Slides](http://slides.com/) - Slides is a place for creating, presenting and sharing presentations.
 
+### Programming Puzzles / Programming Practice and Contest
 
-### Programming Puzzles
-
+* [10 Puzzle Websites to Sharpen Your Programming Skills](http://sixrevisions.com/resources/10-puzzle-websites-to-sharpen-your-programming-skills/)
 * [Facebook Puzzles](https://www.facebook.com/careers/puzzles.php)
-* [Topcoder Algorithm matches](http://community.topcoder.com/tc?module=ProblemArchive)
-* [Spoj online judge](http://www.spoj.com/problems/classical/)
+* [TopCoder](http://www.topcoder.com/)([Problem](http://community.topcoder.com/tc?module=ProblemArchive)) - Home of the world's largest development community
+* [Sphere Online Judge (SPOJ)](http://www.spoj.com/problems/classical/)
 * [Uva online judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 * [Codeforces](http://www.codeforces.com/)
-* [Codechef](http://www.codechef.com/)
+* [CodeChef](http://www.codechef.com/) - Programming Competition,Programming Contest,Online Computer Programming 
+* [Programming Praxis](http://programmingpraxis.com/) - A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer
+* [Project Euler](https://projecteuler.net) - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+* [HackerEarth Beta](http://www.hackerearth.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [GeeksforGeeks](http://www.geeksforgeeks.org/) - A programming tutorials, a computer science portal for geeks
