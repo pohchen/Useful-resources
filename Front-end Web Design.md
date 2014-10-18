@@ -90,6 +90,7 @@
 * [JavaScriptOO.com](http://www.javascriptoo.com/) - JavaScript Libraries 資源庫
 * [JavaScript The Right Way](http://jstherightway.org/) - This is a JavaScript guide intended to introduce new developers and help experienced ones to the JavaScript's best practices.
 * [5 Minutes of JavaScript](http://five-js.envylabs.com/)
+* [Javascript Challenges](http://amischol.gitbooks.io/javascript_challenges/content/) - A book to challenge your knowledge about the most obscure parts of Javascript. Learn with us and don't be affraid again of Javascript.
 
 ### Javascript MVC framework
 
