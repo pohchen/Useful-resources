@@ -116,6 +116,13 @@
 * [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.
 * [SweetAlert](http://tristanedwards.me/sweetalert) - A beautiful replacement for Javascript's "Alert"
 
+### Code Quality Tool
+
+* [JSLint](http://www.jslint.com/) - The JavaScript Code Quality Tool 
+* [JSHint](http://www.jshint.com/) - a JavaScript Code Quality Tool
+* [JSONLint](http://jsonlint.com/) - The JSON Validator
+* [CSSLint](http://csslint.net/) - Your CSS goes here.
+
 ### iOS/Android App Design
 
 * [Flinto](https://www.flinto.com/) - iOS and Android prototypes made from your existing screen designs.
