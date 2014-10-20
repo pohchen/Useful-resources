@@ -106,6 +106,7 @@
 
 ### Javascript Client-side libraries
 
+* [Promises.js](https://www.promisejs.org/) - The core idea behind promises is that a promise represents the result of an asynchronous operation. ([JavaScript Promises](http://987.tw/2014/05/23/javascript-promises-in-wicked-detail))
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. 
 * [Hover](https://github.com/IanLunn/Hover) - Awesome CSS3 animations on mouse hover.
 * [platform.js](https://github.com/bestiejs/platform.js) - Get client's operating system name, version and other information.
@@ -120,10 +121,14 @@
 * [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.
 * [SweetAlert](http://tristanedwards.me/sweetalert) - A beautiful replacement for Javascript's "Alert"
 
-### Javascript Task Runner
+### Javascript Task Runner/ Workflow 
 
-* [Grunt.js](http://gruntjs.com/) - The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc..
-* [Gulp.js](http://gulpjs.com/) - The streaming build system
+* [Yeoman](http://yeoman.io/) - Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
+* [Grunt.js](http://gruntjs.com/) - The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc..(File)
+* [Gulp.js](http://gulpjs.com/) - The streaming build system (Stream)
+* [gulp-cheatsheet](https://github.com/osscafe/gulp-cheatsheet) - A cheatsheet for gulp.
+* [安裝gulp外掛](http://987.tw/2014/07/09/gulpru-men-zhi-nan/) - gulp-ruby-sass, gulp-minify-css, gulp-jshint, gulp-concat, gulp-livereload, gulp-notify...)
+* [Slush](http://slushjs.github.io/#/) - Slush is a scaffolding tool, i.e. a tool to help you generate new project structures to get you up and running with your new project in a matter of seconds.
 
 ### Code Quality Tool
 
