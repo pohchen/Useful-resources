@@ -13,6 +13,8 @@
 * [BrowserStack](http://www.browserstack.com/) - Cross Browser Testing Tool
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/) - A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
 * [CCSP NTU Course](http://ccsp.ntumobile.org/syllabus.html) - Code for Your Dream
+* [LiveReload](http://livereload.com/) - LiveReload monitors changes in the file system. 
+* [Bower](http://bower.io/) - A package manager for the web
 * Language for faster making a website : Haml, Slim, Jade, Sass, Compass...
 
 ### Framework/Templetes + Others
@@ -77,6 +79,7 @@
 * [RWD 基礎網頁/設定box-sizing](http://www.adamkaplan.me/grid/)
 * [利用BORDER-BOX為網頁元素設定正確的長度與寬度](http://rettamkrad.blogspot.tw/2012/11/setting-correct-width-and-height-for.html)
 * [Compass](http://compass-style.org/)
+* [SCSS](http://sass-lang.com/)
 * [Spriting with Compass](http://wcc723.github.io/css/2014/03/13/css-icon-sprites/)
 * [Codrops](http://tympanus.net/codrops/) - Many good CSS Tutorials
 * [iHover](http://gudh.github.io/ihover/dist/index.html) - CSS3 hover effects pack
@@ -103,6 +106,7 @@
 
 ### Javascript Client-side libraries
 
+* [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. 
 * [Hover](https://github.com/IanLunn/Hover) - Awesome CSS3 animations on mouse hover.
 * [platform.js](https://github.com/bestiejs/platform.js) - Get client's operating system name, version and other information.
 * [jQuery Raty](http://wbotelhos.com/raty/) - Star rating plugin.
@@ -116,10 +120,16 @@
 * [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.
 * [SweetAlert](http://tristanedwards.me/sweetalert) - A beautiful replacement for Javascript's "Alert"
 
+### Javascript Task Runner
+
+* [Grunt.js](http://gruntjs.com/) - The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc..
+* [Gulp.js](http://gulpjs.com/) - The streaming build system
+
 ### Code Quality Tool
 
 * [JSLint](http://www.jslint.com/) - The JavaScript Code Quality Tool 
 * [JSHint](http://www.jshint.com/) - a JavaScript Code Quality Tool
+* [JavaScript Lint](http://www.javascriptlint.com/index.htm)
 * [JSONLint](http://jsonlint.com/) - The JSON Validator
 * [CSSLint](http://csslint.net/) - Your CSS goes here.
 
