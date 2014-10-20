@@ -25,8 +25,9 @@
 * [Web前端](http://jianshu.io/c/zGogxV)
 * [JSON Generator](http://www.json-generator.com/) - 假資料產生
 * [Front-End Technologies](http://uptodate.frontendrescue.org/)
-* [幫你的網頁作體檢](https://speakerdeck.com/jaceju/checkup-your-web-pages) - by 大澤木小鐵
+* [幫你的網頁作體檢](https://speakerdeck.com/jaceju/checkup-your-web-pages) 
 * [Wiki - Comparison of web application frameworks](http://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks)
+* [週末長知識: Facebook's "theater" View](http://pymaster.logdown.com/post/238286-weekend-long-knowledge-facebooks-theater-view) - 常見的 modal 實作
 
 ### Design + HTML/HTML5 
 
