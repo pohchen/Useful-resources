@@ -22,14 +22,19 @@
 * [Web前端程式開發實務](http://f2eclass.com/) - by Joseph Chiang
 * [F2E, the Keystone](https://speakerdeck.com/josephj/f2e-the-keystone-front-end-developer-party-number-1) - Front-end Developer Party #1
 * [Treehouse Blog](http://blog.teamtreehouse.com/) - about Websites, Coding, iOS, Android and Business
-* [BootStrap](http://getbootstrap.com/)
 * [Bootflat](http://bootflat.github.io/) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.1.0 CSS framework. 
 * [Web前端](http://jianshu.io/c/zGogxV)
 * [JSON Generator](http://www.json-generator.com/) - 假資料產生
 * [Front-End Technologies](http://uptodate.frontendrescue.org/)
 * [幫你的網頁作體檢](https://speakerdeck.com/jaceju/checkup-your-web-pages) 
 * [Wiki - Comparison of web application frameworks](http://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks)
-* [週末長知識: Facebook's "theater" View](http://pymaster.logdown.com/post/238286-weekend-long-knowledge-facebooks-theater-view) - 常見的 modal 實作
+* [週末長知識: Facebook's "theater" View](http://pymaster.logdown.com/post/238286-weekend-long-knowledge-facebooks-theater-view) - 常見的 Popup modal 實作
+
+### BootStrap Related
+
+* [BootStrap](http://getbootstrap.com/)
+* [BootStrap Material Design](http://fezvrasta.github.io/bootstrap-material-design/) - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new Google Material Design in your favorite front-end framework.
+* 
 
 ### Design + HTML/HTML5 
 
@@ -69,7 +74,6 @@
 * [Blueprint: A CSS Framework](http://www.blueprintcss.org/) - Spend your time innovating, not replicating
 * [Pure](http://purecss.io/) ★★★★★ - A set of small, responsive CSS modules that you can use in every web project.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
-* [CSS Spinning Loaders](http://codepen.io/andymcfee/pen/ioskA) - spinning loader in CSS
 * [SpinKit](http://tobiasahlin.com/spinkit/) - more awesome spinning loaders in CSS
 * [Creative Button Styles](http://tympanus.net/Development/CreativeButtons/) - awesome button styles
 * [Creative Link Effects](http://tympanus.net/Development/CreativeLinkEffects/) - awesome link effects in CSS
@@ -87,6 +91,11 @@
 * [CodePen](http://codepen.io/) - Front End Developer Playground & Code Editor in the Browser
 * [TheCodePlayer](http://thecodeplayer.com/) - TheCodePlayer plays code like a video helping people to learn front end technologies like HTML5, CSS3, Javascript, Jquery easily, quickly and interactively.
 
+### CSS Component
+
+* [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/) - several loading icons
+* [CSS Spinning Loaders](http://codepen.io/andymcfee/pen/ioskA) - spinning loader in CSS
+* 
 ### Javascript
 
 * [Echo JS](http://www.echojs.com/) - A HackerNews-like site dedicated to JavaScript and Front-end News.
