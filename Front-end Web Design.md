@@ -34,7 +34,6 @@
 
 * [BootStrap](http://getbootstrap.com/)
 * [BootStrap Material Design](http://fezvrasta.github.io/bootstrap-material-design/) - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new Google Material Design in your favorite front-end framework.
-* 
 
 ### Design + HTML/HTML5 
 
@@ -95,7 +94,7 @@
 
 * [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/) - several loading icons
 * [CSS Spinning Loaders](http://codepen.io/collection/HtAne/) - spinning loader in CSS
-* 
+
 ### Javascript
 
 * [Echo JS](http://www.echojs.com/) - A HackerNews-like site dedicated to JavaScript and Front-end News.
@@ -130,7 +129,7 @@
 * [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.
 * [SweetAlert](http://tristanedwards.me/sweetalert) - A beautiful replacement for Javascript's "Alert"
 
-### Javascript Task Runner/ Workflow 
+### Javascript Task Runner/ Workflow  / Package manager
 
 * [Yeoman](http://yeoman.io/) - Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
 * [Grunt.js](http://gruntjs.com/) - The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc..(File)
@@ -138,6 +137,8 @@
 * [gulp-cheatsheet](https://github.com/osscafe/gulp-cheatsheet) - A cheatsheet for gulp.
 * [安裝gulp外掛](http://987.tw/2014/07/09/gulpru-men-zhi-nan/) - gulp-ruby-sass, gulp-minify-css, gulp-jshint, gulp-concat, gulp-livereload, gulp-notify...)
 * [Slush](http://slushjs.github.io/#/) - Slush is a scaffolding tool, i.e. a tool to help you generate new project structures to get you up and running with your new project in a matter of seconds.
+* [npm](https://www.npmjs.org/) - Node Packaged Modules
+* [cnpmjs.org](http://cnpmjs.org/) - Private npm registry and web for Company
 
 ### Code Quality Tool
 
