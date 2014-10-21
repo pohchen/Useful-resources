@@ -94,7 +94,7 @@
 ### CSS Component
 
 * [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/) - several loading icons
-* [CSS Spinning Loaders](http://codepen.io/andymcfee/pen/ioskA) - spinning loader in CSS
+* [CSS Spinning Loaders](http://codepen.io/collection/HtAne/) - spinning loader in CSS
 * 
 ### Javascript
 
