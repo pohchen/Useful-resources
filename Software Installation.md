@@ -18,6 +18,11 @@ This is some important installation steps of different software
 * North is a set of standards and best practices for developing modern web based properties. Included are standards and best practices for all aspects of a project, from kick off through development. North encourages an agile, content-first, approach to product development and a mobile-first, in-browser, system based approach to design and development.
 
 
-## Game Development
+## Unix command run server
 
-* bla bla bla
+* node server >> app.log &  // run server background & save the log 
+* bg
+* jobs
+* fg  //  take the most recent background job to the foreground
+* fg %1  // bring the job#1 to the foreground.
+* kill %2
