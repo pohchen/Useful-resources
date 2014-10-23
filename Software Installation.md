@@ -26,3 +26,4 @@ This is some important installation steps of different software
 * fg  //  take the most recent background job to the foreground
 * fg %1  // bring the job#1 to the foreground.
 * kill %2
+* [Write a System V init script to start, stop, and restart my own application or service](http://www.cyberciti.biz/tips/linux-write-sys-v-init-script-to-start-stop-service.html)
