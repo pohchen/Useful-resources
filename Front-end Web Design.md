@@ -140,6 +140,11 @@
 * [npm](https://www.npmjs.org/) - Node Packaged Modules
 * [cnpmjs.org](http://cnpmjs.org/) - Private npm registry and web for Company
 
+### node.js
+
+- [node.js](http://nodejs.org/)
+- [LoopBack](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+
 ### Code Quality Tool
 
 * [JSLint](http://www.jslint.com/) - The JavaScript Code Quality Tool 
