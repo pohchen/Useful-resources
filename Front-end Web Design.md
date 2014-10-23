@@ -144,6 +144,7 @@
 
 - [node.js](http://nodejs.org/)
 - [LoopBack](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+- [LoopBack Service](http://strongloop.com/node-js/loopback/) - Open Source API Framework Powered by Node.js
 
 ### Code Quality Tool
 
