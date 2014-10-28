@@ -56,6 +56,7 @@
 * [Cloud9 IDE](https://c9.io/) - Write, run, and debug your code with our powerful and flexible cloud IDE. Collaborate on your workspaces publicly, or keep them private. The choice is yours!
 * [moqups 網站雛形製作](https://moqups.com/)
 * [Slides](http://slides.com/) - Slides is a place for creating, presenting and sharing presentations.
+* [GET社区](http://get.jobdeer.com/) - 每日Get新知识
 
 ### Programming Puzzles / Programming Practice and Contest
 
