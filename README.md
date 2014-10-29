@@ -2,7 +2,7 @@
 ## Online Resources Sharing
 * [Front-end Web Design](https://github.com/pohchen/Useful-resources/blob/master/Front-end%20Web%20Design.md)
 * [Learning Materials](https://github.com/pohchen/Useful-resources/blob/master/Learning%20Materials.md)
-* [Useful Stuffs](https://github.com/pohchen/Useful-resources/blob/master/Useful%20Stuffs.md)
+* [Useful Stuffs & Software Development](https://github.com/pohchen/Useful-resources/blob/master/Useful%20Stuffs%20%26%20Software%20Development.md)
 * [Software Installation](https://github.com/pohchen/Useful-resources/blob/master/Software%20Installation.md)
 
 ## My Travel Schedule
