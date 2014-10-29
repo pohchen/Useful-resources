@@ -13,6 +13,19 @@
 * [iubenda](http://www.iubenda.com/en) - 網站隱私政策 Privacy policy 快速產生器
 * [Interview Questions | CareerCup](http://www.careercup.com/page) - 常見面試題目整理推薦
 
+### GitHub Usage & Tool
+
+* [GitLab](https://about.gitlab.com/) - Open source software to collaborate on code. GitLab offers git repository management, code reviews, issue tracking, activity feeds, wikis. It has LDAP/AD integration, handles 25,000 users on a single server but can also run on a highly available active/active cluster
+* [談 Git 的開發流程](http://ihower.tw/blog/archives/7798)
+* [Git rebase 和 merge 合併操作示範錄影](http://ihower.tw/blog/archives/6704)
+* [Git/Workflow/Topic](http://public.kitware.com/Wiki/Git/Workflow/Topic)
+* [GitHub Flow](https://guides.github.com/introduction/flow/index.html) - recommand for Web app develop, updated frequently
+
+### Code Review Tool
+
+* [Phabricator](http://phabricator.org/).- Phabricator is a collection of open source web applications that help software companies build better software.
+* [Gerrit](https://code.google.com/p/gerrit/) - Web based code review and project management for Git based projects.
+
 ### 實習職缺
 
 * [Job Inside](http://jobs.inside.com.tw/)
@@ -41,19 +54,6 @@
 
 * [wange.im 万戈, Web 开发](http://wange.im/)
 * [kuty.cc](http://kytu.cc/works/) - [Personal Facebook](https://www.facebook.com/kytu800)
-
-### GitHub Usage & Tool
-
-* [GitLab](https://about.gitlab.com/) - Open source software to collaborate on code. GitLab offers git repository management, code reviews, issue tracking, activity feeds, wikis. It has LDAP/AD integration, handles 25,000 users on a single server but can also run on a highly available active/active cluster
-* [談 Git 的開發流程](http://ihower.tw/blog/archives/7798)
-* [Git rebase 和 merge 合併操作示範錄影](http://ihower.tw/blog/archives/6704)
-* [Git/Workflow/Topic](http://public.kitware.com/Wiki/Git/Workflow/Topic)
-* [GitHub Flow](https://guides.github.com/introduction/flow/index.html) - recommand for Web app develop, updated frequently
-
-### Code Review Tool
-
-* [Phabricator](http://phabricator.org/).- Phabricator is a collection of open source web applications that help software companies build better software.
-* [Gerrit](https://code.google.com/p/gerrit/) - Web based code review and project management for Git based projects.
 
 ### 其他網站
 
