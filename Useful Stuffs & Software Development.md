@@ -15,7 +15,10 @@
 
 ### GitHub Usage & Tool
 
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+* [A Hacker’s Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [GitLab](https://about.gitlab.com/) - Open source software to collaborate on code. GitLab offers git repository management, code reviews, issue tracking, activity feeds, wikis. It has LDAP/AD integration, handles 25,000 users on a single server but can also run on a highly available active/active cluster
+* [Git 版本控制系統](http://ihower.tw/git/)
 * [談 Git 的開發流程](http://ihower.tw/blog/archives/7798)
 * [Git rebase 和 merge 合併操作示範錄影](http://ihower.tw/blog/archives/6704)
 * [Git/Workflow/Topic](http://public.kitware.com/Wiki/Git/Workflow/Topic)
