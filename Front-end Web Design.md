@@ -3,6 +3,7 @@
 ### Important Lists For Beginners
 
 * [Web Developer Checklist](http://webdevchecklist.com/)
+* [Web technology for developers | MDN](https://developer.mozilla.org/en-US/docs/Web)
 * [Frontend Tools](http://fredsarmento.me/frontend-tools/)
 * [codeschool](https://www.codeschool.com/) - Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
 * [Codecademy](http://www.codecademy.com/) - Learn to code interactively, for free.
