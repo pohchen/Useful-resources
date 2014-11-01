@@ -133,7 +133,7 @@
 * [Passport.js](http://passportjs.org/) - Simple, unobtrusive authentication for Node.js.
 * [SockJS](https://github.com/sockjs) - Realtime communications
 
-### Javascript Task Runner, Workflow  / Package manager / UI module systems
+### Javascript Task Runner, Workflow, UI build tools and automation  / Package manager / UI module systems
 
 * [Yeoman](http://yeoman.io/) - Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
 * [Grunt.js](http://gruntjs.com/) - The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc..(File)
@@ -152,6 +152,7 @@
 - [node.js](http://nodejs.org/)
 - [LoopBack](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 - [LoopBack Service](http://strongloop.com/node-js/loopback/) - Open Source API Framework Powered by Node.js
+- [MeanStack](http://mean.io/#!/) - MongoDB + Express.js + Angular.js + Node.JS
 
 ### Code Quality Tool
 
