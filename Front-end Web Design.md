@@ -83,7 +83,8 @@
 * [RWD 基礎網頁/設定box-sizing](http://www.adamkaplan.me/grid/)
 * [利用BORDER-BOX為網頁元素設定正確的長度與寬度](http://rettamkrad.blogspot.tw/2012/11/setting-correct-width-and-height-for.html)
 * [Compass](http://compass-style.org/)
-* [SCSS](http://sass-lang.com/)
+* [Sass](http://sass-lang.com/)
+* [Stylus](http://learnboost.github.io/stylus/) - expressive, robust, feature-rich CSS preprocessor
 * [Spriting with Compass](http://wcc723.github.io/css/2014/03/13/css-icon-sprites/)
 * [Codrops](http://tympanus.net/codrops/) - Many good CSS Tutorials
 * [iHover](http://gudh.github.io/ihover/dist/index.html) - CSS3 hover effects pack
@@ -129,8 +130,10 @@
 * [drop.js](http://github.hubspot.com/drop/docs/welcome/) - Look nice. Powerful Javascript and CSS library for creating dropdowns and other floating displays.
 * [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Declarative on-scroll reveal animations.
 * [SweetAlert](http://tristanedwards.me/sweetalert) - A beautiful replacement for Javascript's "Alert"
+* [Passport.js](http://passportjs.org/) - Simple, unobtrusive authentication for Node.js.
+* [SockJS](https://github.com/sockjs) - Realtime communications
 
-### Javascript Task Runner/ Workflow  / Package manager
+### Javascript Task Runner, Workflow  / Package manager / UI module systems
 
 * [Yeoman](http://yeoman.io/) - Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
 * [Grunt.js](http://gruntjs.com/) - The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc..(File)
@@ -140,6 +143,9 @@
 * [Slush](http://slushjs.github.io/#/) - Slush is a scaffolding tool, i.e. a tool to help you generate new project structures to get you up and running with your new project in a matter of seconds.
 * [npm](https://www.npmjs.org/) - Node Packaged Modules
 * [cnpmjs.org](http://cnpmjs.org/) - Private npm registry and web for Company
+* [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code.
+* [Browserify](http://browserify.org/) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
+* [LMD](http://lmdjs.org/) - JavaScript Module-Assembler for building better web applications
 
 ### node.js
 
