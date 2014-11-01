@@ -1,18 +1,23 @@
-Software Installation
+Tools & Software Installation
 =========
 
-This is some important installation steps of different software
+### IDE
 
-## Web Development
+* [Sublime Text 3](http://www.sublimetext.com/3)
+* [WebStorm](http://www.jetbrains.com/webstorm/) - WebStorm is a lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js.
 
-### GitHub - [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
+
+
+## GitHub Repo
+
+### [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
 
 * A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute.
 * [Setting up Node.js and npm on Mac OSX](http://shapeshed.com/setting-up-nodejs-and-npm-on-mac-osx/)
 * Install Node.js via homebrew - brew install node
 * npm install --save pageres
 
-### GitHub - [snugug/north](https://github.com/Snugug/north)
+### [snugug/north](https://github.com/Snugug/north)
 
 * Design and development standards to align and guide your project.
 * North is a set of standards and best practices for developing modern web based properties. Included are standards and best practices for all aspects of a project, from kick off through development. North encourages an agile, content-first, approach to product development and a mobile-first, in-browser, system based approach to design and development.
