@@ -28,6 +28,7 @@
 * [HTML5 & CSS3 社群](https://www.facebook.com/groups/htmlfive/)
 * [Node.js 社群](http://nodejs.tw/) - [Facebook](https://www.facebook.com/groups/node.js.tw/)
 * [reddit - programming](http://www.reddit.com/r/programming/) - hot news
+* [Taiwan R User Group 資料分析上手課程影片](http://taiwanrusergroup.github.io/DSC2014Tutorial/) - 台灣資料科學愛好者年會的資料科學上手課程
 
 ### 社群聚會+Conference
 
