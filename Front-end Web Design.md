@@ -153,6 +153,7 @@
 - [LoopBack](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 - [LoopBack Service](http://strongloop.com/node-js/loopback/) - Open Source API Framework Powered by Node.js
 - [MeanStack](http://mean.io/#!/) - MongoDB + Express.js + Angular.js + Node.JS
+- [Node.js 在InfoQ上的内容](http://www.infoq.com/cn/nodejs/)
 
 ### Code Quality Tool
 
