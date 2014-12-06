@@ -3,6 +3,7 @@
 ### Important Lists For Beginners
 
 * [Web Developer Checklist](http://webdevchecklist.com/)
+* [Website Style Guide Resources](http://styleguides.io/)
 * [A Guide to Optimising Website & Application Performance](https://cdnify.com/discover/web-performance-guide)
 * [Web technology for developers | MDN](https://developer.mozilla.org/en-US/docs/Web)
 * [Frontend Tools](http://fredsarmento.me/frontend-tools/)
