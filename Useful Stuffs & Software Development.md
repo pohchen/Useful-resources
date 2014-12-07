@@ -12,6 +12,7 @@
 * [Redesigning IMDB](https://medium.com/p/2e9e865dd83)
 * [iubenda](http://www.iubenda.com/en) - 網站隱私政策 Privacy policy 快速產生器
 * [Interview Questions | CareerCup](http://www.careercup.com/page) - 常見面試題目整理推薦
+* [你不能不知的程式設計/軟體工程師面試題庫 - Leetcode](http://evonwritingworkshop.blogspot.tw/2014/08/computer-science-interview.html)
 
 ### GitHub Usage & Tool
 
