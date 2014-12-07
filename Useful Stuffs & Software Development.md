@@ -38,6 +38,7 @@
 
 ### 趨勢關注
 
+* [Trending repositories](https://github.com/trending) - Find what repositories the GitHub community is most excited about today.
 * [Treehouse Show: Web Design and Development News](https://www.youtube.com/playlist?list=PLFDA5B0CD72326128)
 * [互联网的一些事](http://www.yixieshi.com/)
 * [36氪 | 关注互联网创业](http://www.36kr.com/)
@@ -47,6 +48,7 @@
 * [TechCrunch](http://techcrunch.com/)
 * [PunNode](http://punnode.com/)
 * [Circle](https://www.facebook.com/circle.tw)
+
 
 ### 書籍
 
