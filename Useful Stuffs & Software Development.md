@@ -48,6 +48,7 @@
 * [TechCrunch](http://techcrunch.com/)
 * [PunNode](http://punnode.com/)
 * [Circle](https://www.facebook.com/circle.tw)
+* [BuzzMiner](http://buzzminer.co/) - Quickly read latest news from different sites in one place
 
 
 ### 書籍
