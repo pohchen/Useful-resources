@@ -6,6 +6,9 @@ Tools & Software Installation
 * [Sublime Text 3](http://www.sublimetext.com/3)
 * [WebStorm](http://www.jetbrains.com/webstorm/) - WebStorm is a lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js.
 
+### Wordpress plugin
+* [WooCommerce](http://www.woothemes.com/woocommerce/) - WooCommerce is the most popular WordPress eCommerce plugin. And it's available for free. Packed full of features, perfectly integrated into your self-hosted WordPress website
+* 
 
 
 ## GitHub Repo
