@@ -8,7 +8,6 @@ Tools & Software Installation
 
 ### Wordpress plugin
 * [WooCommerce](http://www.woothemes.com/woocommerce/) - WooCommerce is the most popular WordPress eCommerce plugin. And it's available for free. Packed full of features, perfectly integrated into your self-hosted WordPress website
-* 
 
 
 ## GitHub Repo
