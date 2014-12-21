@@ -53,6 +53,7 @@
 * [V2EX](http://v2ex.com/) - 一个关于分享和探索的地方
 * [Explore GitHub](https://github.com/explore)
 * [Git Book 中文線上版本](http://git-scm.com/book/zh-tw/)
+* [連猴子都能懂的Git入門指南](http://backlogtool.com/git-guide/tw/)
 * [CodePen](http://codepen.io/) - CodePen is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write.
 * [Trello](https://trello.com/)
 * [Brackets](http://brackets.io/) - Brackets is an open source code editor for web designers and front-end developers.
@@ -61,6 +62,7 @@
 * [moqups 網站雛形製作](https://moqups.com/)
 * [Slides](http://slides.com/) - Slides is a place for creating, presenting and sharing presentations.
 * [GET社区](http://get.jobdeer.com/) - 每日Get新知识
+* [程式碼準則 by @mdo](http://lisp.es/code-guide/) - 開發出靈活、穩定、可持續發展的 HTML 與 CSS 標準。
 
 ### Programming Puzzles / Programming Practice and Contest
 
