@@ -18,6 +18,7 @@
 * [比Price比比價](http://www.bbprice.com.tw/)
 * [Feebee 飛比價格比價網](http://feebee.com.tw/)
 * [FunTime旅遊比價](http://www.funtime.com.tw/)
+* [原價屋估價系統](http://coolpc.com.tw/evaluate.php) - 最即時的電腦相關硬體配備價格
 
 ### 信用卡優惠
 
