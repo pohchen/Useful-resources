@@ -31,3 +31,4 @@
 
 * [官網抽獎得點活動](http://www.happygocard.com.tw/official/point/activity.do)
 * [官網店家得點資訊](http://www.happygocard.com.tw/official/store/store_event.do)
+* [Bounties分享得點](http://www.bounties.com.tw/) - 不定期有分享得點數,Happygo,賞金活動
