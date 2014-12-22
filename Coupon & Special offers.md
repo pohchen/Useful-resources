@@ -29,6 +29,11 @@
 * [星巴克官網門市活動](http://www.starbucks.com.tw/stores/allevent/stores_allevent.jspx)
 * [GoodLife|星巴克](http://goodlife.tw/%E5%92%96%E5%95%A1%E5%BA%97/%E6%98%9F%E5%B7%B4%E5%85%8B)
 
+### 各大書店折價卷資訊/找折價卷()
+
+* [【酷碰集散地】](http://www.book-ecoupon.com/) - [FB粉絲團](https://www.facebook.com/book.ecoupon)
+* [e-coupon|PTT](https://www.ptt.cc/bbs/e-coupon/index.html)
+
 ### Happy go 卡專區
 
 * [官網抽獎得點活動](http://www.happygocard.com.tw/official/point/activity.do)
