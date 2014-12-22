@@ -14,7 +14,7 @@
 
 ### 比價網站
 
-* [EZprice 比價網站](http://ezprice.com.tw/) - [Chrome擴充插件自動比價](https://chrome.google.com/webstore/detail/ezprice%E6%89%BE%E4%BE%BF%E5%AE%9C%EF%BC%9A%E8%B3%BC%E7%89%A9%E6%AF%94%E5%83%B9%E3%80%81%E6%90%9C%E6%9B%B8%E6%AF%94%E5%83%B9%E3%80%81%E5%83%B9%E6%A0%BC%E6%AF%94%E5%83%B9/ahknmaojkhdoddgeaaldehdddnfpomoi)
+* [EZprice 比價網站](http://ezprice.com.tw/) - [App/Chrome自動比價軟體](http://ezprice.com.tw/ezapp/)
 * [比Price比比價](http://www.bbprice.com.tw/)
 * [Feebee 飛比價格比價網](http://feebee.com.tw/)
 * [FunTime旅遊比價](http://www.funtime.com.tw/)
