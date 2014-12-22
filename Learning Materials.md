@@ -49,6 +49,7 @@
 * [Quora](https://www.quora.com/)
 * [Stack Overflow](http://stackoverflow.com/)
 * [Hacker News](https://news.ycombinator.com/)
+* [Sidebar](http://sidebar.io/) - The 5 best design links, every day
 * [DataTau](http://www.datatau.com/) - Hacker News for data scientists 
 * [知乎](http://www.zhihu.com/) - 与世界分享你的知识、经验和见解
 * [V2EX](http://v2ex.com/) - 一个关于分享和探索的地方
