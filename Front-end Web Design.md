@@ -99,8 +99,14 @@
 * [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/) - several loading icons
 * [CSS Spinning Loaders](http://codepen.io/collection/HtAne/) - spinning loader in CSS
 
+### Responsive Web Design
+
+* [How To Write Mobile-first CSS](http://www.zell-weekeat.com/how-to-write-mobile-first-css/)
+
 ### Javascript
 
+* [Libscore](http://libscore.com/#) - [View Trending Data](http://libscore.com/data.html). Libscore scans the top million sites on the web to collect 
+stats on JavaScript library usage. Explore this month's data.
 * [Echo JS](http://www.echojs.com/) - A HackerNews-like site dedicated to JavaScript and Front-end News.
 * [DailyJS](http://dailyjs.com/) - A JavaScript Blog.
 * [JavaScriptOO.com](http://www.javascriptoo.com/) - JavaScript Libraries 資源庫
