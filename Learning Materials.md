@@ -16,6 +16,7 @@
 * [Good-tutorials](http://www.good-tutorials.com/) - Provides tutorials related to languages like HTML,CSS,PHP,Ruby,Java,Javascript...
 * [w3schools](http://www.w3schools.com/)
 * [tuts+ Free Tutorial](http://code.tutsplus.com/)
+* [慕课网](http://www.imooc.com/) - 免费的IT技能学习平台
 
 ### 推薦技術社群
 
