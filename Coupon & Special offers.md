@@ -15,6 +15,7 @@
 ### 比價網站
 
 * [EZprice 比價網站](http://ezprice.com.tw/) - [App/Chrome自動比價軟體](http://ezprice.com.tw/ezapp/)
+* [Pingle 品購](http://www.pingle.com.tw/) - 商品比價、新品上架、價格通知
 * [比Price比比價](http://www.bbprice.com.tw/)
 * [Feebee 飛比價格比價網](http://feebee.com.tw/)
 * [FunTime旅遊比價](http://www.funtime.com.tw/)
