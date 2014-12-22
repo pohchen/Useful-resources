@@ -2,7 +2,7 @@
 
 ### 省錢資訊推薦
 
-* [Lifeismoney|PTT](https://www.ptt.cc/bbs/Lifeismoney/index.html)
+* [Lifeismoney|PTT](https://www.ptt.cc/bbs/Lifeismoney/index.html) - PTT省錢版
 * [符碼記憶](http://www.ewdna.com/) - 部落格提供信用卡,折價卷,所得稅等最新優惠資訊
 * [GoodLife](http://goodlife.tw/) - 找優惠。麥當勞,家樂福,大潤發,好市多,量販店,台鐵,高鐵,7-11,星巴克,信用卡...
 
@@ -31,11 +31,12 @@
 * [GoodLife|星巴克](http://goodlife.tw/%E5%92%96%E5%95%A1%E5%BA%97/%E6%98%9F%E5%B7%B4%E5%85%8B)
 * [Starbucks|PTT](https://www.ptt.cc/bbs/Starbucks/index.html) - PTT星巴克版
 
-### 找各大書店折價卷(博客來, 金石堂, 三民, 誠品...)
+### 各大書店折價券資訊
 
+* 網路書店包含: 博客來, 金石堂, 三民, 誠品民, 金石堂, 城邦, TAAZE...等等
 * [【酷碰集散地】](http://www.book-ecoupon.com/) - [FB粉絲團](https://www.facebook.com/book.ecoupon)
 * [符碼記憶](http://www.ewdna.com/2012/05/e-coupon.html) - 可以選擇該網站代訂服務 ps.發票歸代訂
-* [e-coupon|PTT](https://www.ptt.cc/bbs/e-coupon/index.html) - 折價卷版
+* [e-coupon|PTT](https://www.ptt.cc/bbs/e-coupon/index.html) - PTT折價券版
 * [ㄟ寶 E-coupon 分享平台](http://abowman.pixnet.net/blog)
 
 ### Happy go 卡專區
