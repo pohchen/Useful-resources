@@ -23,17 +23,19 @@
 ### 信用卡優惠
 
 * [卡優新聞網](http://www.cardu.com.tw/message/message.php) - 理財、消費、支付卡資訊網站
+* [creditcard|PTT](https://www.ptt.cc/bbs/creditcard/index.html) - PTT信用卡版
 
 ### 星巴克, 隨行卡優惠
 
 * [星巴克官網門市活動](http://www.starbucks.com.tw/stores/allevent/stores_allevent.jspx)
 * [GoodLife|星巴克](http://goodlife.tw/%E5%92%96%E5%95%A1%E5%BA%97/%E6%98%9F%E5%B7%B4%E5%85%8B)
+* [Starbucks|PTT](https://www.ptt.cc/bbs/Starbucks/index.html) - PTT星巴克版
 
 ### 找各大書店折價卷(博客來, 金石堂, 三民, 誠品...)
 
 * [【酷碰集散地】](http://www.book-ecoupon.com/) - [FB粉絲團](https://www.facebook.com/book.ecoupon)
 * [符碼記憶](http://www.ewdna.com/2012/05/e-coupon.html) - 可以選擇該網站代訂服務 ps.發票歸代訂
-* [e-coupon|PTT](https://www.ptt.cc/bbs/e-coupon/index.html)
+* [e-coupon|PTT](https://www.ptt.cc/bbs/e-coupon/index.html) - 折價卷版
 * [ㄟ寶 E-coupon 分享平台](http://abowman.pixnet.net/blog)
 
 ### Happy go 卡專區
