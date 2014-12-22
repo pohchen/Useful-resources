@@ -79,3 +79,8 @@
 * [HackerEarth Beta](http://www.hackerearth.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [GeeksforGeeks](http://www.geeksforgeeks.org/) - A programming tutorials, a computer science portal for geeks
+
+### A/B Testing Comparison
+
+* [Optimizely](https://www.optimizely.com/) - Make every experience count
+* [Visual Website Optimizer](https://vwo.com) - A/B Testing Tool and Split Testing Software
