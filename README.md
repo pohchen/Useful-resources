@@ -13,4 +13,4 @@
 
 Resources collected by pohchen (Po-Han Chen)
 
-You can send [PR](https://github.com/pohchen/Useful-resources/pulls) or email: [sihalon@gmail.com](sihalon@gmail.com) to help improving collected resources, thanks!
+You can send [PR](https://github.com/pohchen/Useful-resources/pulls) or email: sihalon@gmail.com to help improving collected resources, thanks!
