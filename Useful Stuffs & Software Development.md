@@ -1,5 +1,10 @@
 ## Useful Stuffs
 
+### 搶購票劵/網站架構相關文章
+
+* [“米粉节”背后的故事——小米网抢购系统开发实践](http://www.csdn.net/article/2014-11-07/2822545)
+* [Re: [請益] 請問寬宏售票為何常當機?](https://www.ptt.cc/bbs/Soft_Job/M.1420586522.A.8FF.html)
+
 ### 雜文收藏 + 找工作
 
 * [優秀網站開發者的十個特徵](http://www.inside.com.tw/2014/02/19/10-signs-that-you-are-an-awesome-web-developer)
