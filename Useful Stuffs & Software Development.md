@@ -4,6 +4,7 @@
 
 * [“米粉节”背后的故事——小米网抢购系统开发实践](http://www.csdn.net/article/2014-11-07/2822545)
 * [Re: [請益] 請問寬宏售票為何常當機?](https://www.ptt.cc/bbs/Soft_Job/M.1420586522.A.8FF.html)
+* [由12306.cn谈谈网站性能技术](http://coolshell.cn/articles/6470.html)
 
 ### 雜文收藏 + 找工作
 
