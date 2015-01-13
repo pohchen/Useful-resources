@@ -17,6 +17,7 @@
 * [w3schools](http://www.w3schools.com/)
 * [tuts+ Free Tutorial](http://code.tutsplus.com/)
 * [慕课网](http://www.imooc.com/) - 免费的IT技能学习平台
+* [【HITCON FreeTalk - 世紀大漏洞 你是受害者嗎? 】簡報檔 & 錄影檔](http://blog.hitcon.org/2015/01/hitcon-freetalk20150109slides.html)
 
 ### 推薦技術社群
 
@@ -32,6 +33,7 @@
 * [Taiwan R User Group 資料分析上手課程影片](http://taiwanrusergroup.github.io/DSC2014Tutorial/) - 台灣資料科學愛好者年會的資料科學上手課程
 * [CNode：Node.js专业中文社区](https://cnodejs.org/) - nodejs, node, express, connect, socket.io
 * [《Docker —— 從入門到實踐­》正體中文版](http://philipzheng.gitbooks.io/docker_practice/) - Docker 專案的目標是實作輕量級的作業系統虛擬化解決方案
+* [台灣駭客年會 HITCON](http://hitcon.org/) - [Blog 技術文章](http://blog.hitcon.org/)
 
 ### 社群聚會+Conference
 
