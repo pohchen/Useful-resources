@@ -18,6 +18,7 @@
 * [tuts+ Free Tutorial](http://code.tutsplus.com/)
 * [慕课网](http://www.imooc.com/) - 免费的IT技能学习平台
 * [【HITCON FreeTalk - 世紀大漏洞 你是受害者嗎? 】簡報檔 & 錄影檔](http://blog.hitcon.org/2015/01/hitcon-freetalk20150109slides.html)
+* [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)
 
 ### 推薦技術社群
 
