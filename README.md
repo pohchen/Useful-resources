@@ -9,8 +9,10 @@
 ## My Travel Schedule
 * [2013日本大阪京都行程規劃](https://github.com/pohchen/Useful-resources/blob/master/japan-osaka-travel.pdf)
 * [2014日本東京行程規劃](https://github.com/pohchen/Useful-resources/blob/master/japan-tokyo-travel.pdf)
+* 2015法國巴黎尼斯行程規劃 - 安排中...
 
+## Personal Sharing
+* [Credit Cards Apply Record](https://github.com/pohchen/Useful-resources/blob/master/Credit%20Cards%20Apply%20Record.md)
 
 Resources collected by pohchen (Po-Han Chen)
-
-You can send [PR](https://github.com/pohchen/Useful-resources/pulls) or email: sihalon@gmail.com to help improving collected resources, thanks!
+Thanks!
