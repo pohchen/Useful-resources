@@ -9,6 +9,7 @@
 ### 雜文收藏 + 找工作
 
 * [優秀網站開發者的十個特徵](http://www.inside.com.tw/2014/02/19/10-signs-that-you-are-an-awesome-web-developer)
+* [資訊科技產業面試模擬和工作咨詢 - Jserv](http://wiki.csie.ncku.edu.tw/embedded/rehearsal)
 * [關於工程師 59 條搞笑但卻真實無比的語錄](http://www.inside.com.tw/2013/12/20/59-hilarious-but-true-programming-quotes-for-software-developers)
 * [Top Pens of 2013](http://codepen.io/2013/popular)
 * [高雄前端社群#7 & 前端小學堂](https://docs.google.com/presentation/d/1994aiVagPhMsur4wIr-F3IbeL3q7MDxSdEqfX3Gp9-E/edit#slide=id.g2a346af50_54)
