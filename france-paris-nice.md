@@ -6,8 +6,8 @@
 * 人數: 1人
 * 旅遊地點: 法國巴黎, 尼斯及南法周圍特色小鎮
 * 航空公司: 阿聯酋航空 + 法國航空
-* 路線1: 3/17台北出發(TPE) - 3/18杜拜轉機(DXB) - 3/18巴黎抵達(CDG) - 巴黎待到3/22
-* 路線2: 3/22巴黎(ORY) - 3/22尼斯(NCE) - 尼斯及附近小鎮 - 3/29尼斯回家(NCE) - 3/30杜拜轉機(DXB) - 3/30台北(TPE)
+* 路線一: 3/17台北出發(TPE) - 3/18杜拜轉機(DXB) - 3/18巴黎抵達(CDG) - 巴黎待到3/22
+* 路線二: 3/22巴黎(ORY) - 3/22尼斯(NCE) - 尼斯及附近小鎮 - 3/29尼斯回家(NCE) - 3/30杜拜轉機(DXB) - 3/30台北(TPE)
 
 ### 參考行程
 
@@ -21,6 +21,7 @@
 
 * Google Keep 整理各種備忘清單
 * Google Map 路線大致規劃 + 出國即時查
+* 要注意各博物館休館時間
 
 
 ### 下飛機購買
@@ -33,6 +34,8 @@
 
 * [巴黎奥利机场(PARIS-ORLY)航站楼互动地图](http://www.aeroportsdeparis.fr/en/passengers/access/paris-orly/terminals-map)
 * [巴黎戴高乐机场(PARIS-CHARLES DE GAULLE)航站楼互动地图](http://www.aeroportsdeparis.fr/en/passengers/access/paris-charles-de-gaulle/terminals-map)
+* [安朵的巴黎](http://www.ideesdeparis.com/home/)
+* [六種在巴黎的省錢吃喝法 (續「九種巴黎的省錢吃法)](http://sara2011.pixnet.net/blog/post/81133426)
 * [尼斯全部公車地圖](http://en.nice.aeroport.fr/Passengers/DIRECTIONS-PARKING/Gestion-Bus-et-Navettes/Bus-lines)
 * [尼斯全部公車詳細時間表](http://www.lignesdazur.com/horaires_ligne/?rub_code=6&laction=all)
 * [尼斯一些不錯中文介紹](http://www.eurotravel.idv.tw/forum/simple/index.php?t18574.html)
