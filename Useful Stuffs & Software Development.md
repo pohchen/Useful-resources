@@ -20,6 +20,7 @@
 * [iubenda](http://www.iubenda.com/en) - 網站隱私政策 Privacy policy 快速產生器
 * [Interview Questions | CareerCup](http://www.careercup.com/page) - 常見面試題目整理推薦
 * [你不能不知的程式設計/軟體工程師面試題庫](http://evonwritingworkshop.blogspot.tw/2014/08/computer-science-interview.html) - [Leetcode](https://oj.leetcode.com/problems/) / [LeetCode 答案查询](http://www.ninechapter.com/solutions/)
+* [軟韌體工程師面試- C語言與OS作業系統 常見題目(筆試考題)](http://eeepage.info/interview-c/) - 感謝賴77提供
 
 ### GitHub Usage & Tool
 
