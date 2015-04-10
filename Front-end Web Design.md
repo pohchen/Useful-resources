@@ -113,6 +113,8 @@ stats on JavaScript library usage. Explore this month's data.
 * [JavaScript The Right Way](http://jstherightway.org/) - This is a JavaScript guide intended to introduce new developers and help experienced ones to the JavaScript's best practices.
 * [5 Minutes of JavaScript](http://five-js.envylabs.com/)
 * [Javascript Challenges](http://amischol.gitbooks.io/javascript_challenges/content/) - A book to challenge your knowledge about the most obscure parts of Javascript. Learn with us and don't be affraid again of Javascript.
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/es6) - ES6, the updated JavaScript Style Guide by the development team at Airbnb, outlines new features from ES6 such as destructuring, let, and arrow functions.
+* [ECMAScript 6](http://es6-features.org/#Constants) - New Features: Overview & Comparison
 
 ### Javascript MVC framework
 
