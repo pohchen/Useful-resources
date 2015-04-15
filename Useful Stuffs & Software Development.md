@@ -77,3 +77,8 @@
 * [百度云网盘](http://pan.baidu.com/) - BT種子離線代抓
 * [360云盘](http://yunpan.360.cn/)
 * [VoiceTube學英文](http://voicetube.tw/)
+
+### 其他網站 - VPN
+
+* [Hola Better Internet](https://chrome.google.com/webstore/detail/hola-better-internet/gkojfkhlekighikafcpjkiklfbnlmeio)
+* [ZenMate Security & Privacy VPN](https://chrome.google.com/webstore/detail/zenmate-security-privacy/fdcgdnkidjaadafnichfpabhfomcebme)
