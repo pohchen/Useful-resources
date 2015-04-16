@@ -21,6 +21,8 @@
 * [Interview Questions | CareerCup](http://www.careercup.com/page) - 常見面試題目整理推薦
 * [你不能不知的程式設計/軟體工程師面試題庫](http://evonwritingworkshop.blogspot.tw/2014/08/computer-science-interview.html) - [Leetcode](https://oj.leetcode.com/problems/) / [LeetCode 答案查询](http://www.ninechapter.com/solutions/)
 * [軟韌體工程師面試- C語言與OS作業系統 常見題目(筆試考題)](http://eeepage.info/interview-c/) - 感謝賴77分享
+* [知乎](http://www.zhihu.com/) - [前端工程师](http://www.zhihu.com/topic/19573936) / [招聘](http://www.zhihu.com/topic/19578758)
+* 中國招聘类网站 - 100offer、内推网、拉勾网、histarter、脉圈、灯塔、jobdeer、哪儿上班、周伯通、猎聘
 
 ### GitHub Usage & Tool
 
