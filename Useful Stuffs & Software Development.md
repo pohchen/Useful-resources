@@ -23,6 +23,7 @@
 * [軟韌體工程師面試- C語言與OS作業系統 常見題目(筆試考題)](http://eeepage.info/interview-c/) - 感謝賴77分享
 * [知乎](http://www.zhihu.com/) - [前端工程师](http://www.zhihu.com/topic/19573936) / [招聘](http://www.zhihu.com/topic/19578758)
 * 中國招聘类网站 - 100offer、内推网、拉勾网、histarter、脉圈、灯塔、jobdeer、哪儿上班、周伯通、猎聘
+* [「殺手級」英文履歷怎麼寫？這23個「Power Words」你一定要會](http://www.thenewslens.com/post/137838/)
 
 ### GitHub Usage & Tool
 
