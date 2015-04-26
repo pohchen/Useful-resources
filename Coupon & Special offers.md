@@ -2,6 +2,7 @@
 
 ### 省錢資訊推薦
 
+* [淘金省錢分享日記|FB粉絲團](https://www.facebook.com/lifeismoney.tw)
 * [Lifeismoney|PTT](https://www.ptt.cc/bbs/Lifeismoney/index.html) - PTT省錢版
 * [符碼記憶](http://www.ewdna.com/) - 部落格提供信用卡,折價卷,所得稅等最新優惠資訊
 * [GoodLife](http://goodlife.tw/) - 找優惠。麥當勞,家樂福,大潤發,好市多,量販店,台鐵,高鐵,7-11,星巴克,信用卡...
