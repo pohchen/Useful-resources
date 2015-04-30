@@ -85,6 +85,10 @@
 * [HackerRank](https://www.hackerrank.com/)
 * [GeeksforGeeks](http://www.geeksforgeeks.org/) - A programming tutorials, a computer science portal for geeks
 
+### C notes
+
+* [「#define定義函數」不可思議!!! ](http://www.programmer-club.com.tw/ShowSameTitleN/c/18163.html)
+
 ### A/B Testing Comparison
 
 * [Optimizely](https://www.optimizely.com/) - Make every experience count
