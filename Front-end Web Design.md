@@ -38,7 +38,7 @@
 * [BootStrap](http://getbootstrap.com/)
 * [BootStrap Material Design](http://fezvrasta.github.io/bootstrap-material-design/) - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new Google Material Design in your favorite front-end framework.
 
-### Design + HTML/HTML5 
+### Design + HTML/HTML5 + UI
 
 * [Sidebar](http://sidebar.io/) - The 5 best design links, every day
 * [Smashing Magazine](http://www.smashingmagazine.com/) - For Professional Web Designers and Developers
@@ -58,6 +58,7 @@
 * [W3CPlus](http://www.w3cplus.com/) - 前端爱好者的家园
 * [腾讯ISUX](http://isux.tencent.com/) - 社交用户体验设计
 * [阿里巴巴用戶體驗部](http://www.aliued.cn/) - 阿里巴巴（中文站）用户体验设计部博客
+* [实用必收！如何建立一套UI设计规范？（附众多神器）](http://www.uisdc.com/create-ui-design-guideline)
 
 ### Prototype web & App Tools
 
