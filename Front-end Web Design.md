@@ -60,6 +60,7 @@
 * [腾讯ISUX](http://isux.tencent.com/) - 社交用户体验设计
 * [阿里巴巴用戶體驗部](http://www.aliued.cn/) - 阿里巴巴（中文站）用户体验设计部博客
 * [实用必收！如何建立一套UI设计规范？（附众多神器）](http://www.uisdc.com/create-ui-design-guideline)
+* [推薦五個熱門 Google 材質設計框架 (Material Design Framework)](http://adon988.logdown.com/posts/263691-recommend-some-good-google-material-design-framework)
 
 ### Prototype web & App Tools
 
