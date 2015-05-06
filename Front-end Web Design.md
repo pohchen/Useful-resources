@@ -18,6 +18,7 @@
 * [CCSP NTU Course](http://ccsp.ntumobile.org/syllabus.html) - Code for Your Dream
 * [LiveReload](http://livereload.com/) - LiveReload monitors changes in the file system. 
 * [Bower](http://bower.io/) - A package manager for the web
+* [写给初学前端工程师的一封信](http://www.w3ctech.com/topic/983) - [什么是前端工程的话题 - 工程之美](http://kejun.github.io/share2013_6/) 投影片
 * Language for faster making a website : Haml, Slim, Jade, Sass, Compass...
 
 ### Framework/Templetes + Others
