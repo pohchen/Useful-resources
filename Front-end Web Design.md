@@ -105,6 +105,7 @@
 ### Responsive Web Design
 
 * [How To Write Mobile-first CSS](http://www.zell-weekeat.com/how-to-write-mobile-first-css/)
+* [Multi Screen Test](http://whatismyscreenresolution.net/multi-screen-test)
 
 ### Javascript
 
