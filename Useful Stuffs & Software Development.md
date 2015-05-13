@@ -41,6 +41,12 @@
 * [Phabricator](http://phabricator.org/).- Phabricator is a collection of open source web applications that help software companies build better software.
 * [Gerrit](https://code.google.com/p/gerrit/) - Web based code review and project management for Git based projects.
 
+### IoT
+
+* [MediaTek LinkIt™ ONE](https://labs.mediatek.com/site/global/developer_tools/mediatek_linkit/whatis_linkit/index.gsp)- MediaTek / MTK IoT device, [MediaTek Cloud Sandbox](https://mcs.mediatek.com/)
+* [Windows 10 物联网版支持 Node.js](http://livesino.net/archives/8474.live)
+* [Node.js on Windows 10](https://github.com/Microsoft/node) - Enable Node.js to use Chakra as its JavaScript engine.
+
 ### 實習職缺
 
 * [Job Inside](http://jobs.inside.com.tw/)
