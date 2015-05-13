@@ -44,6 +44,7 @@
 ### IoT
 
 * [MediaTek LinkIt™ ONE](https://labs.mediatek.com/site/global/developer_tools/mediatek_linkit/whatis_linkit/index.gsp)- MediaTek / MTK IoT device, [MediaTek Cloud Sandbox](https://mcs.mediatek.com/)
+* [[產品] Raspberry Pi 2 Model B](http://www.raspberrypi.com.tw/4063/54/)
 * [Windows 10 物联网版支持 Node.js](http://livesino.net/archives/8474.live)
 * [Node.js on Windows 10](https://github.com/Microsoft/node) - Enable Node.js to use Chakra as its JavaScript engine.
 
