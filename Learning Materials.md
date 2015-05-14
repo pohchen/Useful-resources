@@ -89,6 +89,22 @@
 
 * [「#define定義函數」不可思議!!! ](http://www.programmer-club.com.tw/ShowSameTitleN/c/18163.html)
 
+### 面試各種心得 & 題目備份
+
+* [聯發科暑期實習面試的情形](https://www.facebook.com/groups/ncku.embedded2015/permalink/700980393381782/)
+
+1. C程式：string reverse(寫白板)
+2. C程式：有一個function，輸入999個數字範圍在1~1000之間並且不重覆，該function會回傳1~1000中剩下哪個數沒輸入。
+3. 什麼情形要把一個function宣告為static？
+4. 什麼是race condition？
+5. 介紹spin lock、mutex、semaphore
+6. 介紹程式的每個section(像是data、 text…等)
+7. 為什麼程式要分這麼多section？
+8. 介紹pipeline 5 個stage
+9. pipeline越多越好還是越少越好？多的缺點是什麼？
+10. pipeline hazard有哪些？怎麼解決？
+11. 介紹cache coherence
+
 ### A/B Testing Comparison
 
 * [Optimizely](https://www.optimizely.com/) - Make every experience count
