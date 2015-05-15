@@ -105,6 +105,14 @@
 10. pipeline hazard有哪些？怎麼解決？
 11. 介紹cache coherence
 
+* [技術面試 Coding Interview](https://medium.com/@janetkuo/%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6-coding-interview-6b88edff7933)
+* [Cracking the Coding Interview Silde - Gayle McDowell](http://www.slideshare.net/gayle2/cracking-the-facebook-coding-interview)
+* [topcoder](http://www.topcoder.com/)
+* [CareerCup](http://www.careercup.com/)
+* [LeetCode](https://leetcode.com/)
+* [Cracking the Coding Interview: 150 Programming Questions and Solutions](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+* [Elements of Programming Interviews: The Insiders' Guide](http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+
 ### A/B Testing Comparison
 
 * [Optimizely](https://www.optimizely.com/) - Make every experience count
