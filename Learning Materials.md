@@ -20,6 +20,7 @@
 * [【HITCON FreeTalk - 世紀大漏洞 你是受害者嗎? 】簡報檔 & 錄影檔](http://blog.hitcon.org/2015/01/hitcon-freetalk20150109slides.html)
 * [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)
 * [最全面、权威的计算机专业体系](http://study.163.com/curricula/cs.htm) - [Linux内核分析](http://mooc.study.163.com/course/USTC-1000029000#/info)
+* [Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html) -  Google Career 的一篇職業規劃指南, [繁體中文版本](http://buzzorange.com/techorange/2015/05/17/google-engineer-pack/)
 
 ### 推薦技術社群
 
