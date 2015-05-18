@@ -106,6 +106,7 @@
 
 * [How To Write Mobile-first CSS](http://www.zell-weekeat.com/how-to-write-mobile-first-css/)
 * [Multi Screen Test](http://whatismyscreenresolution.net/multi-screen-test)
+* [Pinkoi 把手機版網站變好用了](http://www.slideshare.net/adamp3wang/pinkoi)
 
 ### Javascript
 
