@@ -90,6 +90,11 @@
 
 * [「#define定義函數」不可思議!!! ](http://www.programmer-club.com.tw/ShowSameTitleN/c/18163.html)
 
+### 海外交換心得
+
+* [[CMU V.S. 交大] - 學期末修課心得](http://heron-article.blogspot.tw/2015/05/cmu-nctu-final.html?m=1)
+
+
 ### 面試各種心得 & 題目備份
 
 * [聯發科暑期實習面試的情形](https://www.facebook.com/groups/ncku.embedded2015/permalink/700980393381782/)
