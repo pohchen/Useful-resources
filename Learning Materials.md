@@ -40,6 +40,7 @@
 
 ### 社群聚會+Conference
 
+* [Modern Web 2015](http://modernweb.tw/) - [Modern Web 2015 之激情學習之旅](https://www.facebook.com/notes/paul-li/modern-web-2015-%E4%B9%8B%E6%BF%80%E6%83%85%E5%AD%B8%E7%BF%92%E4%B9%8B%E6%97%85/10153197809487211)
 * [行動科技應用開發者年會](http://mopcon.org/) - [2013](http://mopcon.org/2013/session.php)
 * [Front-End Developers Taiwan Party](http://www.f2e.tw/)
 * [學生計算機年會](http://sitcon.org/) - [2014](http://sitcon.org/2014/), [2013](http://sitcon.org/2013/)
