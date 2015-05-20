@@ -9,14 +9,11 @@
     * CSS Tools / CSS framework
     * CSS Component
     * Responsive Web Design
-    * Javascript
-    * Javascript MVC framework
-    * Javascript Client-side libraries
+    * Javascript / Javascript MVC framework / Javascript Client-side libraries
     * Javascript Task Runner, Workflow, UI build tools and automation / Package manager / UI module systems
-    * node.js
+    * Node.js
     * Code Quality Tool
     * iOS/Android App Design
-    * Algorithm
     * Database / Back-End
     * Deal with cross browser
 * [Learning Materials](https://github.com/pohchen/Useful-resources/blob/master/Learning%20Materials.md)
@@ -46,7 +43,7 @@
     * Wordpress plugin
     * GitHub Repo
     * Unix command run server
-* [Coupon & Special offers.md](https://github.com/pohchen/Useful-resources/blob/master/Coupon%20%26%20Special%20offers.md)
+* [Coupon & Special offers](https://github.com/pohchen/Useful-resources/blob/master/Coupon%20%26%20Special%20offers.md)
     * 省錢資訊推薦
     * 悠遊卡/一卡通/icash相關
     * 比價網站
@@ -54,7 +51,7 @@
     * 星巴克, 隨行卡優惠
     * 各大書店折價券資訊
     * Happy go 卡專區
-* [Machine Learning & Algorithm.md](https://github.com/pohchen/Useful-resources/blob/master/Machine%20Learning%20%26%20Algorithm.md) - updating...
+* [Machine Learning & Algorithm](https://github.com/pohchen/Useful-resources/blob/master/Machine%20Learning%20%26%20Algorithm.md) - updating...
     * Machine Learning
     * Algorithm
 
