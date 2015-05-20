@@ -2,7 +2,7 @@
 
 ### Machine Learning
 
-* [1](#)
+* [Stanford Machine Learning - Coursera](https://www.coursera.org/course/ml)
 
 ### Algorithm
 
