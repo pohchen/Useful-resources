@@ -42,11 +42,18 @@
     * 其他雜物....
 * [Tools & Software Installation](https://github.com/pohchen/Useful-resources/blob/master/Tools%20%26%20Software%20Installation.md)
     * IDE
-    * Good Github Writing / Book
+    * Good Github Writing / Books
     * Wordpress plugin
     * GitHub Repo
     * Unix command run server
 * [Coupon & Special offers.md](https://github.com/pohchen/Useful-resources/blob/master/Coupon%20%26%20Special%20offers.md)
+    * 省錢資訊推薦
+    * 悠遊卡/一卡通/icash相關
+    * 比價網站
+    * 信用卡優惠
+    * 星巴克, 隨行卡優惠
+    * 各大書店折價券資訊
+    * Happy go 卡專區
 
 ## My Travel Schedule
 * [2013日本大阪京都行程規劃](https://github.com/pohchen/Useful-resources/blob/master/japan-osaka-travel.pdf)
