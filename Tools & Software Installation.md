@@ -9,10 +9,13 @@ Tools & Software Installation
 ### Wordpress plugin
 * [WooCommerce](http://www.woothemes.com/woocommerce/) - WooCommerce is the most popular WordPress eCommerce plugin. And it's available for free. Packed full of features, perfectly integrated into your self-hosted WordPress website
 
+### Good Github Writing
+
+* [How to make an Operating System](https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details) - C++
 
 ## GitHub Repo
 
-### [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
+#### [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
 
 * A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute.
 * [Setting up Node.js and npm on Mac OSX](http://shapeshed.com/setting-up-nodejs-and-npm-on-mac-osx/)
