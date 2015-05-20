@@ -87,6 +87,14 @@
 * [HackerRank](https://www.hackerrank.com/)
 * [GeeksforGeeks](http://www.geeksforgeeks.org/) - A programming tutorials, a computer science portal for geeks
 
+
+### Be a better Software Engineer
+
+* [open courseware 復習 introduction to algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [寫幾題hackerrank](https://www.hackerrank.com/)
+* [onsite前花了兩周把leetcode寫完](https://leetcode.com/)
+* 補充: 電話面試跟onsite的前兩個面試大概是leetcode上面easy to medium的難度，最後一個是medium to hard
+
 ### C notes
 
 * [「#define定義函數」不可思議!!! ](http://www.programmer-club.com.tw/ShowSameTitleN/c/18163.html)
