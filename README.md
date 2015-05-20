@@ -1,6 +1,24 @@
 
 ## Online Resources Sharing
 * [Front-end Web Design](https://github.com/pohchen/Useful-resources/blob/master/Front-end%20Web%20Design.md)
+    * Important Lists For Beginners
+    * Framework/Templetes + Others
+    * BootStrap Related
+    * Design + HTML/HTML5 + UI
+    * Prototype web & App Tools
+    * CSS Tools / CSS framework
+    * CSS Component
+    * Responsive Web Design
+    * Javascript
+    * Javascript MVC framework
+    * Javascript Client-side libraries
+    * Javascript Task Runner, Workflow, UI build tools and automation / Package manager / UI module systems
+    * node.js
+    * Code Quality Tool
+    * iOS/Android App Design
+    * Algorithm
+    * Database / Back-End
+    * Deal with cross browser
 * [Learning Materials](https://github.com/pohchen/Useful-resources/blob/master/Learning%20Materials.md)
 * [Useful Stuffs & Software Development](https://github.com/pohchen/Useful-resources/blob/master/Useful%20Stuffs%20%26%20Software%20Development.md)
 * [Tools & Software Installation](https://github.com/pohchen/Useful-resources/blob/master/Tools%20%26%20Software%20Installation.md)
