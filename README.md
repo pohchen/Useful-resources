@@ -41,6 +41,11 @@
     * Blog / Good Design Works
     * 其他雜物....
 * [Tools & Software Installation](https://github.com/pohchen/Useful-resources/blob/master/Tools%20%26%20Software%20Installation.md)
+    * IDE
+    * Good Github Writing / Book
+    * Wordpress plugin
+    * GitHub Repo
+    * Unix command run server
 * [Coupon & Special offers.md](https://github.com/pohchen/Useful-resources/blob/master/Coupon%20%26%20Special%20offers.md)
 
 ## My Travel Schedule
