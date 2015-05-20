@@ -1,11 +1,5 @@
 ## Useful Stuffs & Software Development & IoT
 
-### 搶購票劵/網站架構相關文章
-
-* [“米粉节”背后的故事——小米网抢购系统开发实践](http://www.csdn.net/article/2014-11-07/2822545)
-* [Re: [請益] 請問寬宏售票為何常當機?](https://www.ptt.cc/bbs/Soft_Job/M.1420586522.A.8FF.html)
-* [由12306.cn谈谈网站性能技术](http://coolshell.cn/articles/6470.html)
-
 ### 雜文收藏 + 找工作
 
 * [優秀網站開發者的十個特徵](http://www.inside.com.tw/2014/02/19/10-signs-that-you-are-an-awesome-web-developer)
@@ -41,6 +35,12 @@
 * [Phabricator](http://phabricator.org/).- Phabricator is a collection of open source web applications that help software companies build better software.
 * [Gerrit](https://code.google.com/p/gerrit/) - Web based code review and project management for Git based projects.
 
+### 網站架構/搶票相關文章
+
+* [“米粉节”背后的故事——小米网抢购系统开发实践](http://www.csdn.net/article/2014-11-07/2822545)
+* [Re: [請益] 請問寬宏售票為何常當機?](https://www.ptt.cc/bbs/Soft_Job/M.1420586522.A.8FF.html)
+* [由12306.cn谈谈网站性能技术](http://coolshell.cn/articles/6470.html)
+* 
 ### IoT
 
 * [MediaTek LinkIt™ ONE](https://labs.mediatek.com/site/global/developer_tools/mediatek_linkit/whatis_linkit/index.gsp)- MediaTek / MTK IoT device, [MediaTek Cloud Sandbox](https://mcs.mediatek.com/)
