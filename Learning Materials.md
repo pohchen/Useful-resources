@@ -88,12 +88,17 @@
 * [GeeksforGeeks](http://www.geeksforgeeks.org/) - A programming tutorials, a computer science portal for geeks
 
 
-### Be a better Software Engineer
+### Be a better Software Engineer / Find a good Job
 
 * [open courseware 復習 introduction to algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-* [寫幾題hackerrank](https://www.hackerrank.com/)
-* [onsite前花了兩周把leetcode寫完](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com/) - 一个比较牛逼的coding challenge网站/寫幾題hackerrank
+* [LeetCode](https://leetcode.com/) - 我和身边的朋友找工作必刷的LeetCode/ onsite前花了兩周把leetcode寫完
 * 補充: 電話面試跟onsite的前兩個面試大概是leetcode上面easy to medium的難度，最後一個是medium to hard
+* [GeeksForGeeks](http://www.geeksforgeeks.org/) - 复杂数据结构的讲解及实现
+* [Glassdoor](http://www.glassdoor.com/) - 面试前了解公司的背景及面试题
+* [July总结出的《程序员编程艺术》](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md) Good!!!!!! ([csdn发现的July的博客](http://blog.csdn.net/v_JULY_v))
+* [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) - 有人据说在找工作前刷了5遍然后面遍天下无敌手。个人认为这里的都是基础入门级算法题，不过每章有一两道稍难一些的（和LeetCode难度差不多的），对语言运用的比较熟的可以很快就刷完了。北美找工作必看的 [Code Solution](https://github.com/gaylemcd/ctci)
+
 
 ### C notes
 
