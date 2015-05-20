@@ -8,6 +8,7 @@ Tools & Software Installation
 
 ### Good Github Writing
 
+* [substack/stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams, [中文版](https://github.com/jabez128/stream-handbook)
 * [How to make an Operating System](https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details) - C++
 
 
