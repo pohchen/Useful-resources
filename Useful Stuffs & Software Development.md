@@ -88,7 +88,12 @@
 * [360云盘](http://yunpan.360.cn/)
 * [VoiceTube學英文](http://voicetube.tw/)
 
-### 其他網站 - VPN
+### 其他網站
+
+* [國內函件資費表](http://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2050103) - [郵件資費查詢](http://www.post.gov.tw/post/internet/Postal/index.jsp?ID=1396069527419)
+* [國內包裹資費表](http://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2050106) - [國內包裹/快捷資費查詢](http://www.post.gov.tw/post/internet/Postal/index.jsp?ID=1398150037697)
+
+### VPN
 
 * [Hola Better Internet](https://chrome.google.com/webstore/detail/hola-better-internet/gkojfkhlekighikafcpjkiklfbnlmeio)
 * [ZenMate Security & Privacy VPN](https://chrome.google.com/webstore/detail/zenmate-security-privacy/fdcgdnkidjaadafnichfpabhfomcebme)
