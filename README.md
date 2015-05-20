@@ -54,6 +54,9 @@
     * 星巴克, 隨行卡優惠
     * 各大書店折價券資訊
     * Happy go 卡專區
+* [Machine Learning & Algorithm.md](https://github.com/pohchen/Useful-resources/blob/master/Machine%20Learning%20%26%20Algorithm.md) - updating...
+    * Machine Learning
+    * Algorithm
 
 ## My Travel Schedule
 * [2013日本大阪京都行程規劃](https://github.com/pohchen/Useful-resources/blob/master/japan-osaka-travel.pdf)
