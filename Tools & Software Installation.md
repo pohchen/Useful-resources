@@ -6,7 +6,7 @@ Tools & Software Installation
 * [Sublime Text 3](http://www.sublimetext.com/3)
 * [WebStorm](http://www.jetbrains.com/webstorm/) - WebStorm is a lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js.
 
-### Good Github Writing
+### Good Github Writing / Books
 
 * [substack/stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams, [中文版](https://github.com/jabez128/stream-handbook)
 * [How to make an Operating System](https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details) - C++
