@@ -20,7 +20,26 @@
     * Database / Back-End
     * Deal with cross browser
 * [Learning Materials](https://github.com/pohchen/Useful-resources/blob/master/Learning%20Materials.md)
+    * MOOCs開放式課程+學習資源
+    * 推薦技術社群
+    * 社群聚會+Conference
+    * 開發相關資源+工具/社群知識
+    * Programming Puzzles / Programming Practice and Contest
+    * Be a better Software Engineer / Find a good Job
+    * C notes
+    * 海外交換心得
+    * 面試各種心得 & 題目備份
+    * A/B Testing Comparison
 * [Useful Stuffs & Software Development](https://github.com/pohchen/Useful-resources/blob/master/Useful%20Stuffs%20%26%20Software%20Development.md)
+    * 雜文收藏 + 找工作
+    * GitHub Usage & Tool
+    * Code Review Tool
+    * 網站架構/搶票相關文章
+    * IoT
+    * 實習職缺
+    * 趨勢關注
+    * Blog / Good Design Works
+    * 其他雜物....
 * [Tools & Software Installation](https://github.com/pohchen/Useful-resources/blob/master/Tools%20%26%20Software%20Installation.md)
 * [Coupon & Special offers.md](https://github.com/pohchen/Useful-resources/blob/master/Coupon%20%26%20Special%20offers.md)
 
