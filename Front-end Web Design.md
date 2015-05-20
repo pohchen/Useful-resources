@@ -183,10 +183,6 @@ stats on JavaScript library usage. Explore this month's data.
 * [Flinto](https://www.flinto.com/) - iOS and Android prototypes made from your existing screen designs.
 * [POP](https://popapp.in/) - prototyping on paper
 
-### Algorithm
-
-* [Sorting Algorithms in C](http://www.codebeach.com/2008/09/sorting-algorithms-in-c.html)- This article discusses some of the common sorting algorithms.
-* [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/)
 
 ### Database / Back-End
 
