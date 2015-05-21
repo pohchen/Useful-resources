@@ -32,7 +32,7 @@
     * GitHub Usage & Tool
     * Code Review Tool
     * 網站架構/搶票相關文章
-    * IoT
+    * 物聯網 IoT
     * 實習職缺
     * 趨勢關注
     * Blog / Good Design Works
