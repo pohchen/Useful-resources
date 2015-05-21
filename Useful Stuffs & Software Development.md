@@ -41,7 +41,7 @@
 * [Re: [請益] 請問寬宏售票為何常當機?](https://www.ptt.cc/bbs/Soft_Job/M.1420586522.A.8FF.html)
 * [由12306.cn谈谈网站性能技术](http://coolshell.cn/articles/6470.html)
 
-### IoT
+### 物聯網 IoT
 
 * [MediaTek LinkIt™ ONE](https://labs.mediatek.com/site/global/developer_tools/mediatek_linkit/whatis_linkit/index.gsp)- MediaTek / MTK IoT device, ([MediaTek Cloud Sandbox](https://mcs.mediatek.com/))
 * [[產品] Raspberry Pi 2 Model B](http://www.raspberrypi.com.tw/4063/54/)
