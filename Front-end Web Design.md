@@ -120,6 +120,7 @@ stats on JavaScript library usage. Explore this month's data.
 * [Javascript Challenges](http://amischol.gitbooks.io/javascript_challenges/content/) - A book to challenge your knowledge about the most obscure parts of Javascript. Learn with us and don't be affraid again of Javascript.
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/es6) - ES6, the updated JavaScript Style Guide by the development team at Airbnb, outlines new features from ES6 such as destructuring, let, and arrow functions.
 * [ECMAScript 6](http://es6-features.org/#Constants) - New Features: Overview & Comparison
+* [JSCS: JavaScript Code Style Checker](http://jscs.info/) - A code linter for programmatically enforcing your own definable style guide.
 
 ### Javascript MVC framework
 
