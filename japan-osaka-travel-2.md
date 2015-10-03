@@ -11,7 +11,7 @@
 
 ### 參考行程
 
-* [詳見pdf](http://google.com)
+* [詳見pdf](http://google.com) - 尚未更新
 
 ### 備忘要帶資料
 
