@@ -59,6 +59,7 @@
 * [2013日本大阪京都行程規劃](https://github.com/pohchen/Useful-resources/blob/master/japan-osaka-travel.pdf)
 * [2014日本東京行程規劃](https://github.com/pohchen/Useful-resources/blob/master/japan-tokyo-travel.pdf)
 * [2015法國巴黎尼斯行程規劃](https://github.com/pohchen/Useful-resources/blob/master/france-paris-nice.md)
+* [2015日本大阪京都奈良行程](https://github.com/pohchen/Useful-resources/blob/master/japan-osaka-travel-2.pdf)
 
 ## Personal Sharing
 * [Credit Cards Apply Record](https://github.com/pohchen/Useful-resources/blob/master/Credit%20Cards%20Apply%20Record.md)
