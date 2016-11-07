@@ -2,6 +2,7 @@
 
 ### MOOCs開放式課程+學習資源
 
+* [哪裡學技術](https://vinta.ws/code/where-to-find-great-content-to-read.html)
 * [Coursera](https://www.coursera.org/) - (社群:[Coursera/MOOCs 同學會](https://www.facebook.com/groups/courserazh/))
 * [edx](https://www.edx.org/)
 * [Udacity](https://www.udacity.com/)
