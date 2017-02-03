@@ -1,4 +1,4 @@
-## Buy Check 購物檢查
+## Buy Check 購物前檢查優惠
 ### 線上購物網站 - 返還現金
 * [shopback](https://www.shopback.com.tw/)
 * [購有錢](https://www.goyomoney.com.tw/)
