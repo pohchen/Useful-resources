@@ -54,6 +54,7 @@
 * [Machine Learning & Algorithm](https://github.com/pohchen/Useful-resources/blob/master/Machine%20Learning%20%26%20Algorithm.md) - updating...
     * Machine Learning
     * Algorithm
+* [Buy Check 購物前檢查優惠](https://github.com/pohchen/Useful-resources/blob/master/Buy_Check.md)
 
 ## My Travel Schedule
 * [2013日本大阪京都行程規劃](https://github.com/pohchen/Useful-resources/blob/master/japan-osaka-travel.pdf)
